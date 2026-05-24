@@ -1,0 +1,12 @@
+[
+  {
+    "game": "Bandido",
+    "page": 1,
+    "content": "B/A.3NDIDO\nOBJETIVO\nUm prisioneiro está tentando escapar \npor túneis a partir de sua cela. Você e \nsua equipe devem unir forças e cartas \npara impedi-lo, fechando todas as saídas. \nMas cuidado! Suas cartas podem acabar \najudando na fuga!\nO JOGO\nO jogador mais jovem começa.\nEm sua vez, jogue uma das suas cartas \npara conectá-la a uma ou mais  \ncartas já posicionadas na mesa.PREPARAÇÃO\n1. Encontrem a carta inicial (com o \nprisioneiro na cela) e posicionem-na no \ncentro de uma mesa grande. Utilizem \no lado fácil ou normal desta carta, \ndependendo do nível de dificuldade que \ndesejarem (5 ou 6 saídas).\n2. Embaralhem as cartas e coloquem-nas \nviradas para baixo, formando uma pilha de \ncompras.\n3. Cada jogador compra 3 cartas.COMPONENTES\n70 Cartas"
+  },
+  {
+    "game": "Bandido",
+    "page": 2,
+    "content": "Atenção:  a carta  \nescolhida deve \nencaixar-se \nperfeitamente \ncom as demais, \ncontinuando \ntodos os túneis.\nDepois que tiver jogado sua carta, pegue \numa nova carta da pilha de compras. Se não \npuder jogar uma carta, você pode colocar \ntodas as cartas de sua mão debaixo da pilha \nde compras e pegar três novas cartas.\nOs jogadores devem trabalhar em \nconjunto, podendo conversar entre si, \nmas sem revelar suas cartas e sem falar \nabertamente sobre elas.\nContinuem jogando \naté que vocês tenham \nbloqueado todos os túneis \nou até que a pilha de \ncompras esteja esgotada.\nTomem cuidado para não \nposicionar uma carta \nde maneira que torne \nimpossível isolar um túnel.\nSe vocês conseguirem \nisolar todos os túneis, \nvencem o jogo! Se \num túnel permanecer \naberto após todas \nas cartas terem sido \njogadas, o prisioneiro \nescapa e todos perdem.\nTradução:  Gabriel C. Schweitzer \nRevisão:  Romir G. E. Paulino,  \nLucas Andrade e Eduardo Cella  \nEdição e Produção:  Eduardo Cella  \nDiagramação:  Gilberto Martimiano Jr.\nNenhuma parte deste produto pode \nser reproduzida sem permissão prévia. \nRegras v1.0 – edição brasileiraVersão Original © 2016 Helvetiq.  Côtes \nde Montbenon 30 CH-1003 Lausanne\nwww.helvetiq.comVersão Brasileira  \n© 2019 PaperGames. \nTodos os direitos \nreservados. Para mais \njogos, informações \nadicionais, manuais ou suporte, visite \nnosso site: www.papergames.com.brcréditos"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "game": "Flip 7",
+    "page": 1,
+    "content": "CONTEÚDO: 94 CARTAS, REGRAS.IDADE 8+ 3+ 20 MIN.UM JOGO POR\nERIC OLSEN"
+  },
+  {
+    "game": "Flip 7",
+    "page": 2,
+    "content": "FORCE SORTE SUAOBJETIVO\nNeste jogo de forçar sua sorte ,\nseja o primeiro jogador a alcançar 200 \npontos para vencer.\nVocê marca pontos com base no valor total \ndas cartas à sua frente.\nQuanto mais valiosa for uma carta, mais \ncópias dela existirão no baralho. Se você \nconseguir Virar 7  cartas numeradas para sua \nlinha, a rodada termina automaticamente \npara todos, e você ganha 15 pontos de \nbônus.\nNo entanto, se você comprar uma segunda \ncarta com o mesmo número de uma que já \nestá na sua linha, você estoura e está fora da \nrodada, sem marcar nenhum ponto.\n1"
+  },
+  {
+    "game": "Flip 7",
+    "page": 3,
+    "content": "x2 À SOMA DAS SUAS CARTAS DE NÚMERO\nx2 À SOMA DAS SUAS CARTAS DE NÚMERO\n+2 À SOMA DAS SUAS CARTAS DE NÚMERO\n+2 À SOMA DAS SUAS CARTAS DE NÚMERO\n+4 À SOMA DAS SUAS CARTAS DE NÚMERO\n+4 À SOMA DAS SUAS CARTAS DE NÚMERO\n4\n+6 À SOMA DAS SUAS CARTAS DE NÚMERO\n+6 À SOMA DAS SUAS CARTAS DE NÚMERO\n+8 À SOMA DAS SUAS CARTAS DE NÚMERO\n+8 À SOMA DAS SUAS CARTAS DE NÚMERO\n+10 À SOMA DAS SUAS CARTAS DE NÚMERO\n+10 À SOMA DAS SUAS CARTAS DE NÚMEROIMPORTANTE!\nESTE É UM BARALHO DE CART AS ESPECIAL.\nEle contém doze cartas 12, onze cartas 11, dez cartas 10... até chegar \na uma carta 1; há até mesmo um 0.\nTambém há algumas cartas de Ação e Modificação: Vire Três, \nCongele, Segunda Chance e Modificadores de Pontuação.\nAo jogar, é importante ter em mente a quantidade de cartas.\nx12\nx7\nx2\nx1\nx3x11\nx6\nx1\nx1\nx3x10\nx5\nx1O ZERO TAMBÉM É UMA CARTA NUMÉRICA\nE NÃO VALE NENHUM PONTOCAR T AS NUMERADAS\nCAR T AS DE MODIFICAÇÃO\nCAR T AS DE AÇÃOx1\nx3x9\nx4\nx1x8\nx3\nx1 x1\n2Se estiver jogando com \nmais de 8 pessoas, \nrecomendamos jogar com \num segundo baralho.D O Z E\nS E T E\nD O I SO N Z E\nS E I S\nU MD E Z\nC I N C ON O V E\nQ U A T R OO I T O\nT R Ê S\nZ E R O"
+  },
+  {
+    "game": "Flip 7",
+    "page": 4,
+    "content": "COMO JOGAR\n*Veja cartas de Ação e Modificação nas páginas 4-5..\nREGRAS ADICIONAIS+4 PONTOS DE BÔNUS\n3Embaralhe o baralho e escolha um Distribuidor .\nNa ordem do turno, ele distribui uma carta virada para cima  para \ncada jogador, incluindo ele mesmo. Se sair uma Carta de Ação , \npause imediatamente  para resolvê-la. Depois, continue até que \ntodos recebam uma carta.\nImportante : Nem todos terão uma carta numerada agora. Alguns \npodem ter cartas de Modificação , outros podem não ter \nnenhuma  ou até três ou quatro , dependendo das cartas de Ação.\nO Distribuidor oferece a cada jogador a opção de \" Pedir \" (receber \noutra carta) ou \" Parar \" (sair da rodada e guardar os pontos).\nSe Pedir , alinhe as cartas de Número, com as de Modificação \nacima.\nApós 4 rodadas, este jogador \nescolheu \"Pedir\" quatro vezes.\nEle tem três cartas de Número  e uma \ncarta de Modificação de Pontuação .\nSe escolher \" Parar \" na próxima vez, \nterminará a rodada com 32 pontos .\nPontuação das cartas numeradas:\n11 + 5 + 12 = 28 pontos\nCom o bônus de +4: 32 pontos\nVocê não pode estourar  com cartas de Ação ou Modificação!\nColoque essas cartas acima  das suas cartas de Número.\nA única forma de conquistar o bônus Virar 7  é tendo sete cartas \nde Número viradas para cima à sua frente .\nC I N C O\n D O Z E O N Z E\n+4 À SOMA DAS SUAS CARTAS DE NÚMERO\n+4 À SOMA DAS SUAS CARTAS DE NÚMERO"
+  },
+  {
+    "game": "Flip 7",
+    "page": 5,
+    "content": "CARTAS DE AÇÃO\n1 2 3\n4As cartas de Ação podem ser jogadas em qualquer jogador ativo , até \nem você. Se for o único jogador ativo, deve jogar a carta em si \nmesmo . Coloque essas cartas acima das suas cartas de Número.\nCONGELAR!\nO jogador que recebe esta carta guarda todos os pontos acumulados \ne sai da rodada.\nVIRE TRÊS!\nO jogador que recebe esta carta deve aceitar as próximas três cartas .\n• Independentemente de quantas cartas restam para virar, pare se \no jogador conseguir Virar 7 .\n• Se, ao revelar as cartas, sair outra Vire Três  ou Congelar , elas \ncontam no total de cartas necessárias .\nResolva a carta de Ação adicional APÓS  todas as três cartas serem \nreveladas ou o jogador estourar.\nSe o jogador estourar, ele escolhe outro jogador ativo  para jogar a \ncarta Vire Três  ou Congelar .\nSEGUNDA CHANCE!\nGuarde esta carta . Se o jogador com esta carta Pedir  e receber outra \ncarta com o mesmo número, descarte  Segunda Chance  e a carta \nduplicada.\n• Um jogador só pode ter uma  Segunda Chance de cada vez.\n• Se receber outra Segunda Chance, deve passá-la a outro jogador \nativo .\n• Se não houver jogadores ativos ou todos já tiverem uma , \ndescarte a carta.\n• Todas as cartas Segunda Chance são descartadas no fim da \nrodada , mesmo se não forem usadas. Isso pode acontecer se o \njogador receber Congelar  ou se conseguir Virar 7 ."
+  },
+  {
+    "game": "Flip 7",
+    "page": 6,
+    "content": "+2 THE SUM OF YOUR NUMBER CARDS\n+2 THE SUM OF YOUR NUMBER CARDS\n+8 THE SUM OF YOUR NUMBER CARDS\n+8 THE SUM OF YOUR NUMBER CARDS\n+4 THE SUM OF YOUR NUMBER CARDS\n+4 THE SUM OF YOUR NUMBER CARDS\n+10 THE SUM OF YOUR NUMBER CARDS\n+10 THE SUM OF YOUR NUMBER CARDS\n+6 THE SUM OF YOUR NUMBER CARDS\n+6 THE SUM OF YOUR NUMBER CARDS\nx2 THE SUM OF YOUR NUMBER CARDS\nx2 THE SUM OF YOUR NUMBER CARDSCARTAS DE MODIFICAÇÃO\nCartas de +2 a +10\nAdicione o valor mostrado à soma das suas cartas de Número.\nCarta x2\nDobre os pontos de todas as suas cartas de Número.\nO x2 não dobra os pontos de outras cartas de Modificação .\nFIM DE UMA RODADA\nA rodada continua até que ocorra um dos dois finais :\n• Não há mais jogadores ativos , pois todos estouraram ou\nescolheram parar.\nOU\n• Um jogador consegue Virar 7 , encerrando a rodada\nimediatamente .\n5"
+  },
+  {
+    "game": "Flip 7",
+    "page": 7,
+    "content": "x2 THE SUM OF YOUR NUMBER CARDS\nx2 THE SUM OF YOUR NUMBER CARDS\n+10 THE SUM OF YOUR NUMBER CARDS\n+10 THE SUM OF YOUR NUMBER CARDS\n4COMO CALCULAR A PONTUAÇÃO:\n1. Some o valor das cartas de Número.\n2. Se tiver a carta x2, dobre a pontuação da rodada.\n3. Adicione quaisquer pontos de bônus extras.\n4. Se conseguir Virar 7, ganhe 15 pontos adicionais.\nINICIANDO A PRÓXIMA RODADA\nFIM DO JOGO\nNo final da rodada, se pelo menos um jogador alcançar 200 pontos ,\nvence quem tiver mais pontos .= 36\n= 36 =72\n= 36 =46+\n+\n++\n+\n+\n++\n+\n+\n++\n+\n+\n+ + ++\n+ =64\n1515151515151515151515\n6Separe todas as cartas usadas. Não as embaralhe de volta no \nbaralho .\nPasse as cartas restantes para a esquerda. Esse jogador será o \nnovo Distribuidor.\nSe o baralho acabar, embaralhe os descartes para formar um \nnovo baralho .\nSe precisar embaralhar no meio da rodada, deixe as cartas dos \njogadores onde estão , mesmo que o jogador tenha estourado e \nsaído da rodada."
+  },
+  {
+    "game": "Flip 7",
+    "page": 8,
+    "content": "IDADE 8+ 3+ 20 MIN.UM JOGO POR\nERIC OLSEN\nTRADUÇÃO NÃO OFICIAL POR\nERON GRECO MELO\nT H E  G R E A T E S T  C A R D  G A M E  O F  A L L  T I M E !"
+  }
+]

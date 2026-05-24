@@ -1,0 +1,38 @@
+[
+  {
+    "game": "Azul",
+    "page": 1,
+    "section": "Capa",
+    "content": "Azul — Um jogo de Michael Kiesling."
+  },
+  {
+    "game": "Azul",
+    "page": 2,
+    "section": "Introdução",
+    "content": "Criados pelos Mouros, os azulejos tiveram total adesão pelos Portugueses quando o rei Manuel I ficou fascinado pela beleza do Palácio de Alhambra. Em Azul, os jogadores decoram as paredes do Palácio Real de Évora."
+  },
+  {
+    "game": "Azul",
+    "page": 3,
+    "section": "Preparação do Jogo",
+    "content": "1. Dê a cada participante um tabuleiro de jogador. Todos devem usar o mesmo lado.\n2. Coloque o marcador de pontuação no espaço 0.\n3. Coloque os Expositores de Fábrica em círculo ao redor do centro da mesa.\n- 2 jogadores: 5 expositores\n- 3 jogadores: 7 expositores\n- 4 jogadores: 9 expositores\n4. Coloque as 100 peças no saco.\n5. O jogador que visitou Portugal mais recentemente pega o marcador de primeiro jogador e preenche cada expositor com 4 peças aleatórias.\n\nObjetivo do jogo:\nSer o jogador com mais pontos ao final da partida. O jogo termina quando um jogador completa uma linha horizontal com 5 azulejos consecutivos.\n\nA partida possui três fases:\nA. Oferta da fábrica\nB. Revestimento de parede\nC. Preparação para a próxima rodada."
+  },
+  {
+    "game": "Azul",
+    "page": 4,
+    "section": "Oferta da Fábrica",
+    "content": "No turno, o jogador deve:\nA) pegar todos os azulejos de uma mesma cor de um Expositor de Fábrica e mover os restantes para o centro da mesa.\nOU\nB) pegar todos os azulejos da mesma cor do centro da mesa.\n\nO primeiro jogador a pegar peças do centro também pega o marcador de primeiro jogador.\n\nOs azulejos devem ser colocados em uma fileira de modelo respeitando:\n- apenas uma cor por fileira\n- não pode repetir cor já presente na parede correspondente\n\nAzulejos excedentes vão para a fileira do chão.\n\nA fase termina quando não houver mais azulejos nem nos expositores nem no centro da mesa."
+  },
+  {
+    "game": "Azul",
+    "page": 5,
+    "section": "Revestimento de Parede e Pontuação",
+    "content": "Os jogadores movem azulejos das fileiras completas para a parede.\n\nO azulejo da extrema direita de cada fileira completa é movido para o espaço correspondente da parede.\n\nPontuação:\n- 1 ponto para azulejo isolado\n- pontuação maior para grupos conectados horizontal ou verticalmente\n\nAzulejos restantes da fileira são descartados.\n\nAzulejos na fileira do chão causam perda de pontos."
+  },
+  {
+    "game": "Azul",
+    "page": 6,
+    "section": "Fim de Jogo",
+    "content": "O jogo termina quando um jogador completar uma linha horizontal de 5 azulejos.\n\nPontuação bônus:\n- linhas horizontais completas\n- colunas completas\n- conjuntos completos de uma mesma cor\n\nO jogador com mais pontos vence."
+  }
+]

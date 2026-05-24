@@ -1,0 +1,22 @@
+[
+  {
+    "game": "Boop",
+    "page": 1,
+    "content": ""
+  },
+  {
+    "game": "Boop",
+    "page": 2,
+    "content": "i \ni . -\nScott Brady's \naparentemente fofo, \nincrivelmente desafiador f \nTM \nSempre que você coloca um gatinho na cama, ele faz \"boop\". \nOu seja, ele empurra todos os outros gatinhos ao seu lado para um espaço mais distante. Forme uma linha de três gatinhos para \ntransformá-los em gatos ... e então, forme uma linha de três gatos para vencer. \nMas isso não será fácil, com você E seu oponente constantemente fazendo \"boop\" por aí. É como ... arrebanhar gatos! \nVocê conseguirá fazer \"boop\" corretamente com seus gatos para vencer? Ou será \"boopado\" para fora da cama? \nComponentes & Preparacão: \nTire os componentes da caixa e coloque o fundo da caixa de cabeça para baixo no centro da área de jogo. \nEm cima dele, coloque o tabuleiro de tecido acolchoado para formar a cama. \nOs jogadores começam a partida com 8 Gatinhos de sua cor. Os 8 Gatos da mesma cor começam \"fora de jogo\", no lado oposto do \ntabuleiro. Quem fez carinho em um gato mais recentemente será o jogador inicial -ou escolha um jogador inicial aleatoriamente. \n8 Gatinhos \nLaranjas \nObjetivo: Tabuleiro de Tecido Acolchoado \nFundo da caixa de CABEÇA PARA BAIXO (Estrutura da Cama) \nAlternem-se colocando um dos seus Gatinhos na cama, em qualquer espaço livre disponível (quadrados costurados). Cinzas \nTransforme seus Gatinhos em Gatos formando uma linha com três das suas peças horizontalmente, verticalmente ou diagonalmente. \nEntão, forme uma linha com 3 dos seus Gatos para VENCER a partida! Mas não é tão simples assim ... \n•••"
+  },
+  {
+    "game": "Boop",
+    "page": 3,
+    "content": ""
+  },
+  {
+    "game": "Boop",
+    "page": 4,
+    "content": ""
+  }
+]
