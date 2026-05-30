@@ -1,0 +1,62 @@
+[
+  {
+    "page": 1,
+    "section": "Capa",
+    "content": "Um jogo de Kaya Miyano,\nilustrado por Laura Michaud\nREGRAS"
+  },
+  {
+    "page": 2,
+    "section": "Componentes e Objetivo",
+    "content": "Componentes\n36 cartas e este folheto de regras.\n OBJETIVO\nGanhar trios antes dos seus adversários (um trio\né formado por 3 cartas idênticas).\nMODO SIMPLES\n3 trios\nquaisquer\nOu o trio 7\nMODO picante\n2 trios conectados\nOs números\nconectados são\nmostrados nos\ncantos inferiores\ndas cartas.\nPor exemplo,\nganhar os\ntrios 2 e 5 ou os trios 2\ne 9 garante a vitória.\nOu o trio 7\n2\n2\n2\n2\n2\n2\n2\n2\n2\n3\n3\n3\n3\n3\n3\n3\n3\n3\n12\n12\n12\n12\n12\n12\n12\n12\n12\n2\n2\n2"
+  },
+  {
+    "page": 3,
+    "section": "Preparação",
+    "content": "PREPARAÇÃO\nEmbaralhe e distribua cartas viradas para\nbaixo para cada jogador conforme a tabela\nabaixo. Depois, coloque as cartas restantes não\ndistribuídas aos jogadores no centro da mesa,\nviradas para baixo, próximas umas das outras.\nQuantidade de\njogadores\n3\n4\n5\n6\nQuantidade de\ncartas por jogador\n9\n7\n6\n5\nQuantidade de\ncartas no centro\n9\n8\n6\n6\nCada jogador reúne suas cartas na mão e\nordena-as em ordem crescente, da menor para a"
+  },
+  {
+    "page": 4,
+    "section": "Como Jogar",
+    "content": "maior, sem mostrá-las a ninguém.\nDecidam se vocês jogarão o modo SIMPLES ou\nPICANTE.\nQuem comeu abacate mais recentemente\ncomeça a partida e o jogo segue no sentido\nhorário.\n COMO JOGAR\nEm sua vez, o jogador revela cartas, uma a\numa: ele deve parar assim que dois números\nforem diferentes, senão ele continua até que três\nnúmeros idênticos sejam revelados.\nPara revelar uma carta, ele pode escolher uma\ndas opções (A ou B) a seguir:\nDo centro da mesa: ele revela qualquer\ncarta que desejar do centro da mesa.\n6\n6\n6\nA"
+  },
+  {
+    "page": 5,
+    "section": "Como Jogar",
+    "content": "Da mão de um jogador, incluindo ele\nmesmo: ele revela o número mais baixo ou\nmais alto: seja da sua própria mão, seja da\nmão de um adversário. Neste último caso,\nele escolhe se o jogador deve revelar a\ncarta mais alta ou a mais baixa da sua mão.\nMesmo que o jogador possua múltiplas\ncópias do seu número mais baixo ou mais\nalto, ele deve revelar somente uma carta\n(sempre a da ponta). A carta é revelada\nsobre a mesa.\nA vez do jogador termina de uma destas\nmaneiras:\n• O jogador completa um trio e ganha-o\npegando as 3 cartas reveladas à sua frente.\n• Ou um número revelado é diferente do\nMostre-nos\nsua carta\nmais alta!\nb"
+  },
+  {
+    "page": 6,
+    "section": "Importante",
+    "content": "anterior, portanto, todas as cartas reveladas\nsão devolvidas aos seus lugares de origem:\nviradas para baixo no centro da mesa ou\ndevolvidas a seu(s) dono(s).\nEm ambos os casos, agora é a vez do próximo\njogador.\nIMPORTANTE:\n• Você pode realizar a mesma ação\ndiversas vezes. Por exemplo: pedir a um\nadversário que revele seu número mais\nalto, depois pedir que ele revele novamente\no número mais alto entre as cartas\nrestantes dele.\n• Mesmo quando um jogador revela uma\ncarta da própria mão, ela deve ser o maior\nou o menor número (nunca um número\ndo meio da sua mão).\n• Se um jogador não tiver cartas restantes\nquando for sua vez, ele ainda joga\nusando as cartas do centro da mesa e dos\nadversários."
+  },
+  {
+    "page": 7,
+    "section": "Exemplo",
+    "content": "Exemplo:\nNa vez de Daniel: ele pede a João seu menor\nnúmero (um 3), depois pede a Letícia seu menor\nnúmero (um 2). Sua vez termina neste momento.\nAs duas cartas diferentes retornam para as mãos\nde seus donos e agora é a vez do próximo jogador.\nNa vez de Letícia: ela revela uma carta do\ncentro (um 2), depois revela seu menor número\n(um 2) e, por fim, revela seu menor número\nnovamente (um 2). Desta forma, ela ganha o trio\n2 e agora é a vez do próximo jogador.\nDaniel\nLetícia\nJoão\n2\n2\n2\n3\n3\n3\n2\n2\n2\nDaniel\nLetícia\nJoão\n2\n2\n2\n2\n2\n2"
+  },
+  {
+    "page": 8,
+    "section": "Final da Partida",
+    "content": "FINAL DA PARTIDA\nUm jogador vence a partida assim que tiver\nganho:\n  3 trios quaisquer ou 2 trios conectados,\ndependendo do modo de jogo (SIMPLES ou\nPICANTE)\nOU\n  o trio 7!"
+  },
+  {
+    "page": 9,
+    "section": "Variante de Times - Preparação",
+    "content": "VARIANTE DE TIMES\n(COM 4 OU 6 JOGADORES APENAS)\nFaça os seguintes ajustes às regras anteriores:\n PREPARAÇÃO\n• Forme times de 2 jogadores: dois times se\nhouver 4 jogadores e três times se houver 6\njogadores. Sente-se na posição oposta a seu\nparceiro, não lado a lado.\n• Embaralhe e distribua todas as cartas viradas\npara baixo. Nenhuma carta é colocada no\ncentro da mesa.\nLetícia\nDaniel\nMaria\nJosé\nJoão\nGustavo"
+  },
+  {
+    "page": 10,
+    "section": "Variante de Times - Como Jogar",
+    "content": "• Após ordenar suas cartas da mão, você pode\ntrocar uma delas com seu parceiro. Todos os\ntimes podem fazer isto ao mesmo tempo.\nTrocando: se dois parceiros quiserem\ntrocar cartas, eles escolhem secretamente\numa das suas cartas, trocam-nas viradas\npara baixo ao mesmo tempo e colocam-nas\ndiscretamente na posição correta em sua\nmão. Um parceiro não pode saber em qual\nposição a carta trocada foi posicionada na\nmão do outro.\nComunicação: trocar é a única forma de\ncomunicação possível entre parceiros.\nTodas as outras formas de comunicação são\nproibidas (sinais com o olho, chutar debaixo\nda mesa, mostrar onde uma carta trocada foi\nposicionada, etc).\n COMO JOGAR\nToda vez que um time ganha um trio, os times\nadversários podem realizar uma nova troca.\nOs 2 parceiros compartilham os trios que"
+  },
+  {
+    "page": 11,
+    "section": "Variante de Times - Exemplo",
+    "content": "ganharem. Recomendamos colocá-los juntos em\nfrente a um dos dois jogadores.\nExemplo:\nNa vez de Daniel: ele pede a Maria seu maior\nnúmero (um 10), depois pede a Letícia seu\nmaior número (um 10) e revela seu próprio maior\nnúmero (um 10). Assim, o time azul ganha este\ntrio e os outros dois times podem realizar uma\ntroca cada.\nTrocando\nLetícia\nDaniel\nMaria\nJosé\nJoão\nGustavo\n10\n10\n10\n10\n10\n10\n10\n10\n10"
+  },
+  {
+    "page": 12,
+    "section": "Final da Partida e Créditos",
+    "content": "FINAL DA PARTIDA\nUm time vence a partida assim que tiver\nganho:\n  3 trios quaisquer ou 2 trios conectados\ndependendo do modo de jogo (SIMPLES ou\nPICANTE)\nOU\n  o trio 7!\nCRÉDITOS\nTradução: Gabriel C. Schweitzer\nRevisão: Eduardo Cella, Gustavo Lopes, Lucas Andrade e\nRomir G. E. Paulino\nEdição e Produção: Eduardo Cella\nDiagramação: Gil Martimiano\nCocktail Games.  2, rue du Hazard 78000\nVersailles, França. www.cocktailgames.com\n© 2023 PaperGames. Todos os direitos\nreservados.\nPara mais jogos, informações adicionais,\nmanuais ou suporte, visite nosso site:\nwww.papergames.com.br\nNenhuma parte deste produto pode ser reproduzida sem\npermissão prévia. Regras v1.0."
+  }
+]

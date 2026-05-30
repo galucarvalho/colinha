@@ -1,0 +1,27 @@
+[
+  {
+    "page": 1,
+    "section": "Capa",
+    "content": "Um jogo de Shintaro Ono, Shingo Fujita, Motoyuki Ohki, Hiromi Oikawa e Shotaro Nakashima,\ndesign gráfico por Shintaro Ono e Laura Michaud\n\nimagine\n\nPara 3 a 8 jogadores, a partir de 10 anos"
+  },
+  {
+    "page": 2,
+    "section": "Componentes, Objetivo e Preparação",
+    "content": "COMPONENTES\n• 60 cartas transparentes\n• 65 cartas de Enigma\n• 35 fichas (25 fichas de 1 ponto e 10 fichas de 3 pontos)\n• 1 manual\n\nOBJETIVO\nAdivinhar enigmas e fazer com que os outros adivinhem os seus enigmas, com a ajuda de cartas transparentes, para conseguir o maior número de pontos.\n\nPREPARAÇÃO\n• Coloque todas as cartas transparentes na mesa, criando um círculo grande.\n• Coloque as fichas na mesa.\n• Embaralhe as cartas de Enigma para formar uma pilha.\n\nA área de jogo é o interior do círculo."
+  },
+  {
+    "page": 3,
+    "section": "Como Jogar",
+    "content": "COMO JOGAR\nO jogador mais criativo começa. (Se não conseguirem decidir, o mais novo começa.)\nNo seu turno, você tem que fazer com que os outros jogadores adivinhem um enigma. Para isso, você deve:\n\n1 Comprar uma carta de Enigma. Outro jogador aleatório deve dizer um número de 1 a 8, que corresponderá ao número do enigma que deverá ser adivinhado.\n• Se você não souber do que se trata o enigma, poderá escolher o enigma acima ou abaixo do sorteado (se for um 1, você poderá escolher 2 ou 8; se for 8, poderá escolher 7 ou 1).\nNota: Os jogadores mais novinhos podem escolher qualquer enigma da carta.\n\n2 Dizer em voz alta a pista do enigma, indicada pelo símbolo.\n\n3 Faça com que os outros adivinhem o seu enigma colocando todas as cartas transparentes à sua escolha na área de jogo. Você pode espalhá-las, movê-las, sobrepô-las, colocá-las lado a lado, ou arrumá-las de qualquer outra forma para facilitar ao máximo a tarefa dos outros jogadores de adivinhar o enigma. Tudo é possível com as cartas transparentes e você pode usar qualquer método para se fazer entender (ver exemplos nas páginas seguintes).\n\nMas não é permitido:\n• falar ou emitir sons\n• compor uma letra ou um número com as cartas\n• fazer mímica com os dedos (mas é permitido cobrir parte das cartas)\n\nOs outros jogadores podem dar quantos palpites quiserem depois que você colocar a primeira carta. Você e o primeiro jogador que adivinhar o enigma ganham 1 ponto. Para marcar esse ponto, cada um pega uma ficha.\n• Se mais de um jogador acertar o enigma ao mesmo tempo, todos que adivinharam ganham 1 ponto.\n\nPARA FAZER OS OUTROS ACERTAREM O ENIGMA:\nUse TODAS AS CARTAS que quiser, na FORMA que desejar!\n\nVocê pode UNIR\nChapéu!\n\nVocê pode SOBREPOR\nArrá! Dançarina!\n\nVocê pode ESCONDER partes com os dedos!\nChapéu também!!!\n\nExemplo de carta de Enigma:\n1 Cronômetro - OBJETO\n2 O Senhor dos Anéis - FILME\n3 Segura o Tchan - MÚSICAS\n4 Pirata - PROFISSÕES INCOMUNS\n5 Ver uma luz no fim do túnel - EXPRESSÃO\n6 Bumerangue - OBJETO\n7 Júlio César - HISTÓRIA\n8 Triângulo Mineiro - LUGAR"
+  },
+  {
+    "page": 4,
+    "section": "Próximo Turno, Fim de Jogo e Variante",
+    "content": "Você também pode MOVIMENTAR\nPular!\n\nE você também pode fazer tudo isso AO MESMO TEMPO!\nUm avião voando ao redor...\nUma figura escalando um prédio...\nKing Kong!\n\nNão há limite de tempo. Se ninguém acertar o enigma depois de algum tempo, e se todos os jogadores concordarem, o turno acaba e ninguém ganha ponto.\n\nPróximo turno\nAs cartas transparentes usadas voltam para o círculo. Depois, é a vez do próximo jogador (no sentido horário) de fazer os outros tentarem adivinhar um novo enigma.\n\nFIM DE JOGO\nA partida termina depois que todos os jogadores tiverem 2 chances de fazer os outros adivinharem um enigma. O vencedor será o jogador que conseguir o maior total de pontos. Em caso de empate, jogue mais um turno para desempatar!\n\nVARIANTE “MAIS UMA PITADA DE CRIATIVIDADE”\nApós jogar algumas partidas, vocês podem fazer os outros jogadores adivinharem um enigma que você mesmo inventou, em vez de comprar uma carta. Quando for o seu turno, basta dar uma dica relevante (filme, personagem, objeto...) e é só começar!\nVocê também pode personalizar os seus enigmas com interesses em comum (obras de arte, livros, videogames...) ou temas ainda mais pessoais, como “brinquedo favorito da Ana”, seu destino de férias, sua sogra...\nMas sempre escolha um enigma que todos possam adivinhar!"
+  },
+  {
+    "page": 5,
+    "section": "Restrições e Permissões",
+    "content": "Você pode fazer TUDO com as cartas transparentes, mas...\n• É proibido falar, emitir sons, cantar...\n• É proibido fazer mímica com as mãos... mas, com as cartas, pode!\n• É proibido compor letras ou números com as cartas... use a sua imaginação!\n\nSIM, é totalmente PERMITIDO:\n• Usar QUANTAS CARTAS quiser.\n• Juntar cartas, sobrepô-las, colocá-las lado a lado e até ANIMÁ-LAS.\n• Esconder partes das cartas com os dedos.\n• Criar modelos 3D, tirando as cartas da mesa... mas cuidado para não se empolgar e fazer mímica com as mãos!\n\nCocktail Games\n2, rue du Hazard\n78000 Versaille, França\n+33 1 30 83 21 21\ninfo@cocktailgames.com\nwww.cocktailgames.com\n/jeux.cocktailgames"
+  }
+]

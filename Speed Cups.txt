@@ -1,0 +1,32 @@
+[
+  {
+    "page": 1,
+    "section": "Regras",
+    "content": "REGRAS"
+  },
+  {
+    "page": 2,
+    "section": "Conteúdo / Objetivo",
+    "content": "CONTEÚDO\n24 Cartas Ilustradas\n20 Copos Plásticos (4 Conjuntos de 5 Cores Cada)\n1 Sineta\n1 Folheto de Regras\n\nOBJETIVO\nCada jogador recebe cinco copos, um de cada cor, \ne tenta solucionar os desenhos das cartas, que \nmostram objetos coloridos."
+  },
+  {
+    "page": 3,
+    "section": "Preparação / Como Jogar",
+    "content": "Você precisará de um bom olho e reações rápidas. \nQual pássaro está sentado no topo da árvore e \nqual está em baixo? Em qual ordem os carros estão \ndispostos na estrada? Conseguiu colocar os copos \nna ordem correta? Seja o primeiro a bater a sineta! \nO jogador mais rápido vence no final.\n\nPREPARAÇÃO\nCada jogador recebe um conjunto de 5 copos em \n5 cores diferentes. Coloque a sineta no centro da \nmesa. Embaralhe as cartas e posicione o baralho \nvirado para baixo ao lado da sineta.\n\nCOMO JOGAR\nUm jogador escolhido ao acaso ou por sorteio, \nrevela a carta de cima do baralho para que todos \nos jogadores a vejam. Assim que a ilustração \nfor revelada, rapidamente, todos os jogadores \nordenam seus copos, ao mesmo tempo, na \nmesma sequência de cores que aparece na carta. \nQuando o jogador finalizar a ordem correta de \nseus copos, ele deve bater na sineta."
+  },
+  {
+    "page": 4,
+    "section": "Nota: Sequência horizontal e vertical",
+    "content": "Nota: Perceba que algumas cartas mostram uma \nsequência horizontal e outras cartas mostram \numa sequência vertical de cores. A ordenação \ndeve ser feita da mesma forma: caso a sequência \nseja horizontal, os copos devem ser posicionados \num ao lado do outro e caso a sequência seja \nvertical, os copos devem ser empilhados."
+  },
+  {
+    "page": 5,
+    "section": "Como Jogar / Final da Partida",
+    "content": "O primeiro jogador a bater na sineta ganhará \naquela carta, mas apenas se seu arranjo de copos \ncorresponder exatamente à ilustração da carta. \nSe o arranjo não estiver correto, então o jogador \nque bateu a sineta em segundo lugar ganha a \ncarta, mas apenas se arranjou corretamente seus \ncopos. Se também estiver errado, a carta vai para o \nterceiro jogador e assim por diante.\n\nO jogo continua com a próxima carta do baralho \nsendo revelada.\n\nNota: Dependendo da posição ao redor da mesa, \nalguns jogadores podem visualizar os desenhos em \noutro sentido, de lado ou ainda de ponta cabeça. \nIndependentemente da posição que o jogador está \nvisualizando a imagem, o arranjo deve respeitar a \nimagem da carta em sua posição original.\n\nFINAL DA PARTIDA\nApós todas as 24 cartas terem sido jogadas, a \npartida termina e o jogador com mais cartas é o \nvencedor."
+  },
+  {
+    "page": 6,
+    "section": "Créditos / Conheça Também",
+    "content": "CONHEÇA TAMBÉM\nEm Halli Galli, temos uma \ngrande salada de frutas! \nOs jogadores recebem \ncartas que mostram \n4 tipos de frutas, em \ngrupos de 1 a 5. \nOs jogadores abrem suas \ncartas e no instante em \nque você perceber um \ntotal de 5 frutas iguais \nna mesa, toque a sineta! \nQuem tiver mais cartas \nno final, vence!\nHalli Galli é diversão garantida para todas as idades \nhá mais de 30 anos! Um jogo rápido, de observação e \nvelocidade, do mesmo autor do Speed Cups.\n\nVersão Original © AMIGO Spiel + Freizeit GmbH, \nD-63128 Dietzenbach, 2013\nVersão Brasileira © 2021 PaperGames.\nTodos os direitos reservados.\nPara mais jogos, informações adicionais, manuais ou \nsuporte, visite nosso site: www.papergames.com.br\nNenhuma parte deste produto pode ser reproduzida sem permissão \nprévia. Regras v1.0 (edição brasileira) e v1.0 (edição AMIGO).\n\nCréditos\nTradução: Gabriel C. Schweitzer\nRevisão: Eduardo Cella, Lucas Andrade e Romir G. E. Paulino\nEdição e Produção: Eduardo Cella\nDiagramação: Gilberto Martimiano Jr."
+  }
+]
