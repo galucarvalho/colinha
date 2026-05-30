@@ -1,0 +1,52 @@
+[
+  {
+    "page": 1,
+    "section": "Capa",
+    "content": "taco\ngato\ncabra\nqueijo\npizza"
+  },
+  {
+    "page": 2,
+    "section": "Introdução",
+    "content": "INTRODUÇÃO\nTaco! Gato! Cabra! \nQueijo! Pizza!\nGuarde estas 5 palavras malucas \nna cabeça.\nJogue uma carta enquanto fala \numa das palavras. Assim que \ncoincidir uma carta jogada com \na palavra falada, corra para bater \nsua mão na pilha central. O último \na bater pega a pilha toda. Seja \nrápido para ser o primeiro a se \nlivrar das suas cartas e vencer o \njogo. \nMas cuidado! Sua \nmente irá pregar \npeças em você. Este \njogo viciante é tão \núnico quanto seu \nnome. Divirta-se!"
+  },
+  {
+    "page": 3,
+    "section": "Objetivo do Jogo / Preparação",
+    "content": "OBJETIVO DO JOGO\nLivre-se de todas as suas cartas \ne seja o primeiro a bater a mão \nna pilha central de cartas quando \nperceber uma correspondência \nou quando aparecer uma carta \nespecial.\nPREPARAÇÃO\nEmbaralhe todas as cartas e \ndistribua-as entre os jogadores, \nviradas para baixo, da seguinte \nmaneira:\n2 a 5 jogadores: 12 cartas\n6 jogadores: 10 cartas\n7 jogadores: 9 cartas\n8 jogadores: 8 cartas\nAs cartas não utilizadas são \ndevolvidas à caixa. Com as cartas \nrecebidas, sem olhá-las, cada"
+  },
+  {
+    "page": 4,
+    "section": "Terminologia / Como Jogar",
+    "content": "jogador forma uma pilha de \ncompras à sua frente, virada para \nbaixo. \nTerminologia:\nPilha de Compras: a pilha de \ncartas que cada jogador tem.\nPilha Central: a pilha no centro \nda mesa.\nCorrespondência: quando uma \ncarta jogada corresponde à \npalavra dita por um jogador.\nCOMO JOGAR\nA pessoa à esquerda de \nquem distribuiu as cartas \njoga uma carta no centro, \nvirada para cima, dizendo \n“Taco”. Então, o jogador \nà esquerda joga sua carta, \nvirada para cima, sobre a"
+  },
+  {
+    "page": 5,
+    "section": "Como Jogar",
+    "content": "carta anterior, enquanto diz “Gato”.\nO jogo prossegue desta forma \n(sempre na ordem e repetindo \n“Taco”, “Gato”, “Cabra”, “Queijo”, \n“Pizza”, “Taco”, “Gato”, “Cabra”, \n“Queijo”, “Pizza”, etc) até que o \nseguinte aconteça:\nA carta que acabou de \nser jogada corresponda \nà palavra dita por um \njogador (por exemplo, \nele jogou uma carta ‘Pizza’ \nenquanto disse “Pizza”).\nNeste momento, todos \nos jogadores devem \nbater sua mão sobre a \ntopo da pilha de cartas \nno centro da mesa e o \núltimo jogador a bater pega \na pilha central inteira e coloca \naquelas cartas no fundo da sua"
+  },
+  {
+    "page": 6,
+    "section": "Como Jogar / Hesitação",
+    "content": "pilha de compras. Então, \naquele último jogador \ninicia a próxima rodada, \ncolocando uma carta no \ncentro da mesa e dizendo \n“Taco”, o próximo jogador, \n“Gato”, o próximo, “Cabra” e \nassim por diante, até que uma \nnova correspondência aconteça. \nAlém disso:\nQuando um jogador tiver jogado \ntodas as suas cartas, ele continua \na dizer “Taco”, “Gato”, “Cabra” \netc. em sua vez e ainda deve \nbater na pilha central quando \nhouver correspondência ou se \numa carta especial aparecer.\nHesitação:\nSe algum jogador bate \nincorretamente, ou \nmesmo faz menção de"
+  },
+  {
+    "page": 7,
+    "section": "Hesitação / Ritmo / Sem Olhadela",
+    "content": "bater, mas recolhe sua mão \n(“hesita”), ele deve pegar \ntodas as cartas da pilha \ncentral e a rodada termina. \nRitmo:\nVocê deve manter um ritmo \nrápido e constante no jogo. \nSe você quebrar o ritmo, seja \nesquecendo o que deve dizer, seja \nnão percebendo que é sua vez, \nvocê deverá pegar as cartas da \npilha central e a rodada termina. \nSem olhadela:\nOs jogadores devem jogar as \ncartas na pilha central virando-as \npara cima sem espiar a carta \nantes dos outros. Se um jogador, \nclaramente, olhar sua carta antes \nde abri-la para todos na pilha, ele \ndeve pegar todas as cartas da \npilha central e a rodada termina."
+  },
+  {
+    "page": 8,
+    "section": "Cartas especiais",
+    "content": "Cartas especiais:\nQuando uma carta especial for \nrevelada, todos os jogadores \ndevem completar as ações abaixo \nimediatamente (de acordo com \na carta revelada), e então bater \nna pilha central. Se um jogador \nrealizar a ação errada ou for o \núltimo a bater na pilha, ele deve \npegar todas as cartas.\ntaco \ntaco\ngato\ngato\nqueijo\nqueijo\ncabra\ncabra\npizza \npizza"
+  },
+  {
+    "page": 9,
+    "section": "Cartas especiais",
+    "content": "Gorila: Todos batem as mãos, de \npunhos fechados, no peito.\nMarmota: Todos batem as mãos, \nde punhos fechados, na mesa.\nNarval: Todos batem palmas \numa vez acima da cabeça para \ngorila\ngorila\nmarmota\nmarmota"
+  },
+  {
+    "page": 10,
+    "section": "Final do Jogo / Créditos",
+    "content": "representar um chifre.\nTradução: Gabriel C. Schweitzer. Revisão: Eduardo Cella, Lucas Andrade \ne Romir G. E. Paulino. Edição e Produção: Eduardo Cella. Diagramação: \nGilberto Martimiano Jr. Versão Original © 2020 Blue Orange. © 2017 \nDolphin Hat Games LLC. Taco Gato Cabra Queijo Pizza e Blue Orange são \nmarcas registradas da Blue Orange Editions. www.blueorangegames.eu \nProduzido e distribuído sob licença da Blue Orange, 97 \nImpasse Jean Lamour, 54700 - Pont-à-Moussoun, França. \nDesenvolvido na França. Versão Brasileira © 2020 \nPaperGames. Todos os direitos reservados. Nenhuma parte \ndeste produto pode ser reproduzida sem permissão prévia. \nRegras v1.0 – edição brasileira. www.papergames.com.br\nFINAL DO JOGO\nO jogo termina quando um \njogador sem cartas restantes for o \nprimeiro a bater corretamente uma \ncorrespondência ou carta especial, \nvencendo assim a partida.\nCRÉDITOS\nnarval\nnarval"
+  }
+]

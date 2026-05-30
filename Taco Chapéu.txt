@@ -1,0 +1,51 @@
+[
+  {
+    "page": 1,
+    "section": "Capa",
+    "content": "taco\nchapéu\nbolo\npresente\npizza"
+  },
+  {
+    "page": 2,
+    "section": "Introdução",
+    "content": "INTRODUÇÃO\nTaco! Chapéu! Bolo!\nPresente! Pizza!\nGuarde estas 5\npalavras malucas na\ncabeça.\nJogue uma carta enquanto fala uma\ndas palavras. Assim que coincidir\numa carta jogada com a palavra\nfalada, corra para bater sua mão na\npilha central. O último a bater pega\na pilha toda. Seja rápido para ser o\nprimeiro a se livrar das suas cartas e\nvencer o jogo.\nMas cuidado! Sua\nmente irá pregar\npeças em você. Este\njogo viciante é tão\núnico quanto seu\nnome. Divirta-se!"
+  },
+  {
+    "page": 3,
+    "section": "Objetivo do Jogo / Preparação",
+    "content": "OBJETIVO DO JOGO\nLivre-se de todas as suas cartas\ne seja o primeiro a bater a mão\nna pilha central de cartas quando\nperceber uma correspondência\nou quando aparecer uma carta\nespecial.\nPREPARAÇÃO\nEmbaralhe todas as cartas e\ndistribua-as entre os jogadores,\nviradas para baixo, da seguinte\nmaneira:\n2 a 5 jogadores: 12 cartas\n6 jogadores: 10 cartas\n7 jogadores: 9 cartas\n8 jogadores: 8 cartas\nAs cartas não utilizadas são\ndevolvidas à caixa. Com as cartas\nrecebidas, sem olhá-las, cada"
+  },
+  {
+    "page": 4,
+    "section": "Como Jogar",
+    "content": "jogador forma uma pilha de\ncompras à sua frente, virada para\nbaixo.\nTerminologia:\nPilha de Compras: a pilha de\ncartas que cada jogador tem.\nPilha Central: a pilha no centro\nda mesa.\nCorrespondência: quando uma\ncarta jogada corresponde à palavra\ndita por um jogador.\nCOMO JOGAR\nA pessoa à esquerda\nde quem distribuiu as\ncartas joga uma carta no\ncentro, virada para cima,\ndizendo “Taco”. Então, o\njogador à esquerda joga\nsua carta, virada para cima,"
+  },
+  {
+    "page": 5,
+    "section": "Como Jogar",
+    "content": "sobre a carta anterior, enquanto diz\n“Chapéu”.\nO jogo prossegue desta forma\n(sempre na ordem e repetindo\n“Taco”, “Chapéu”, “Bolo”, “Presente”,\n“Pizza”, “Taco”, “Chapéu”, “Bolo”,\n“Presente”, “Pizza”, etc) até que o\nseguinte aconteça:\nA carta que acabou de ser jogada\ncorresponda à palavra dita por um\njogador (por exemplo, ele jogou\numa carta ‘Pizza’ enquanto disse\n“Pizza”).\nNeste momento, todos os\njogadores devem bater\nsua mão sobre a topo da\npilha de cartas no centro\nda mesa e o último jogador a bater\npega a pilha central inteira e coloca\naquelas cartas no fundo da sua\npilha de compras. Então, aquele"
+  },
+  {
+    "page": 6,
+    "section": "Como Jogar",
+    "content": "último jogador inicia a próxima\nrodada, colocando uma carta no\ncentro da mesa e dizendo “Taco”,\no próximo jogador, “Chapéu”, o\npróximo, “Bolo” e assim por\ndiante, até que uma nova\ncorrespondência aconteça.\nAlém disso:\nQuando um jogador tiver\njogado todas as suas cartas, ele\ncontinua a dizer “Taco”, “Chapéu”,\n“Bolo” etc. em sua vez e ainda\ndeve bater na pilha central quando\nhouver correspondência ou se uma\ncarta especial aparecer.\nHesitação:\nSe algum jogador bate\nincorretamente, ou\nmesmo faz menção de\nbater, mas recolhe sua\nmão (“hesita”), ele deve"
+  },
+  {
+    "page": 7,
+    "section": "Como Jogar",
+    "content": "pegar todas as cartas\nda pilha central e a\nrodada termina.\nRitmo:\nVocê deve manter\num ritmo rápido e\nconstante no jogo. Se\nvocê quebrar o ritmo,\nseja esquecendo o que deve dizer,\nseja não percebendo que é sua vez,\nvocê deverá pegar as cartas da\npilha central e a rodada termina.\nSem Olhadela:\nOs jogadores devem jogar as cartas\nna pilha central virando-as\npara cima sem espiar a carta\nantes dos outros. Se um jogador,\nclaramente, olhar sua carta antes\nde abri-la para todos na pilha, ele\ndeve pegar todas as cartas da pilha\ncentral e a rodada termina."
+  },
+  {
+    "page": 8,
+    "section": "Cartas Especiais",
+    "content": "Cartas Especiais:\nQuando uma carta especial for\nrevelada, todos os jogadores\ndevem completar as ações abaixo\nimediatamente (de acordo com a\ncarta revelada), e então bater na\npilha central. Se um jogador realizar\na ação errada ou for o último a\nbater na pilha, ele deve pegar\ntodas as cartas.\nMacaco: Os jogadores devem coçar\na cabeça com uma mão, enquanto\nbatem na pilha com a outra.\ntaco\ntaco\nchapéu\nchapéu\npresente\npresente\nbolo\nbolo\npizza\npizza"
+  },
+  {
+    "page": 9,
+    "section": "Cartas Especiais",
+    "content": "Unicórnio: Os jogadores devem\napontar para cima o dedo indicador\nde uma mão a partir da testa,\nenquanto batem na pilha com a\noutra mão.\nNinja: Os jogadores devem dobrar\no braço 90 graus com a palma da\nmão reta, enquanto batem na pilha\ncom a outra mão.\nmacaco\nmacaco\nunicórnio\nunicórnio"
+  },
+  {
+    "page": 10,
+    "content": "Tradução: Gabriel C. Schweitzer. Revisão: Eduardo Cella, Lucas Andrade e Romir G.\nE. Paulino. Edição e Produção: Eduardo Cella. Diagramação: Gilberto Martimiano Jr.\nVersão Original © 2021 Blue Orange Edition. Jogo derivado da versão original “Taco\nGato Cabra Queijo Pizza”. “Taco Chapéu Bolo Presente Pizza” e Blue Orange são\nmarcas registradas da Blue Orange Edition. www.blueorangegames.eu. Produzido\ne distribuído sob licença da Blue Orange, 97 Impasse Jean Lamour,\n54700 - Pont-à-Moussoun, França. Desenvolvido na França. Versão\nBrasileira © 2022 PaperGames. Todos os direitos reservados.\nNenhuma parte deste produto pode ser reproduzida sem permissão\nprévia. Regras v1.0 – edição brasileira. www.papergames.com.br\nFINAL DO JOGO\nO jogo termina quando um\njogador sem cartas restantes for o\nprimeiro a bater corretamente uma\ncorrespondência ou carta especial,\nvencendo assim a partida.\nTaco Chapéu Bolo Presente Pizza\né um jogo da Família Taco Gato.\nCRÉDITOS\nninja\nninja"
+  }
+]
