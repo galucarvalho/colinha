@@ -1,0 +1,60 @@
+[
+  {
+    "page": 1,
+    "section": "Introdução",
+    "content": "1\nSe você for uma\ndas personalidades\nsecundárias de Dany,\nvocê vai ter que se\ncomunicar de maneira\ncorreta com as\noutras para continuar\nexistindo.\n3 a 8 jogadores\n30 minutos\nSe você for Dany,\nvocê vai ter que\nfazer de tudo\npara evitar que as\npersonalidades\nsecundárias\ntenham sucesso,\nsem ser descoberto.\nDany escuta vozes.\nE Dany não aguenta mais.\nVocê é uma das vozes.\nE você quer continuar existindo.\nTrabalhe com as outras,\ncomunique-se e persista.\nE se você for Dany, bem…\nVai ser complicado."
+  },
+  {
+    "page": 2,
+    "section": "Componentes e Preparação",
+    "content": "2\nComponentes\nPreparação\n· Separe as cartas pelos seus tipos:\nMemória, Ideia, Personalidade e Escolha.\n· Aleatoriamente, retire 30 cartas de\nMemória do baralho, devolva-as para a\ncaixa e embaralhe as 30 cartas restantes.\nColoque as cartas viradas para baixo no\ncentro da mesa.\n· No baralho de Personalidade, pegue\ncartas de personalidade secundária (\n)\nigual ao número de jogadores menos 1,\ne adicione uma carta de Dany  (\n).\n· Embaralhe essas cartas de Personalidade\nviradas para baixo e entregue uma para\ncada jogador.\n· Cada jogador olha a sua própria carta de\nPersonalidade sem mostrar aos outros,\ne então a coloca à sua frente virada para\nbaixo.\nA pessoa que conversa consigo\nmesma mais frequentemente começa:\nesta pessoa será a personalidade\nativa deste turno. A pessoa à\nsua direita será a personalidade\ndominante deste turno.\n60 cartas\nde Memória\n37 cartas\nde Ideia\n8 cartas de\nPersonalidade\n5 cartas de\nEscolha"
+  },
+  {
+    "page": 3,
+    "section": "Exemplo",
+    "content": "3\nExemplo\nEm uma partida de 5 jogadores:\nDo baralho de Personalidade:\nEmbaralhe essas 5\ncartas e distribua\numa carta, virada\npara baixo, para\ncada jogador.\nPegue 4 cartas de\nmais 1 carta de"
+  },
+  {
+    "page": 4,
+    "section": "O Jogo",
+    "content": "4\nO Jogo\nA personalidade ativa se prepara.\n· Vire a primeira carta de Ideia, leia em voz\nalta, e a coloque, virada para cima, no topo\ndo baralho de Ideia.\n· Embaralhe as cartas de Escolha e, sem\ndeixar que os outros vejam, olhe a primeira\ncarta. Deixa-a no topo, virada para baixo. O\nnúmero nessa carta corresponde a palavra\n(ou palavras) da carta de Ideia, que você\nterá que fazer os outros adivinharem.\n· Compre as 7 primeiras do baralho de\nMemória, viradas para baixo, sem mostrar\npara os outros.\nA personalidade ativa se concentra.\n· Você vai ter que sintetizar a palavra\nna carta de Ideia usando as cartas de\nMemória que você acabou de comprar.\nPara isso, você pode usar quantas cartas\ntiver na mão (você pode usar qualquer\nnúmero de 0 a 7 cartas).\n· Quando você estiver escolhido quais\ncartas irá usar, descarte as cartas que\nnão foram escolhidas de volta ao topo do\nbaralho de Memória, viradas para baixo\nA personalidade ativa cria.\n· Você pode colocar as cartas, que escolheu\nmanter, na mesa da maneira que achar\nmelhor: separadas, empilhadas, uma\nem cima da outra para encobrir algumas\npartes… Seja criativo.\n· Quando terminar, levante suas mãos e se\nafaste. Isso simboliza o envio da sua ideia\npara as outras personalidades."
+  },
+  {
+    "page": 5,
+    "section": "Exemplo",
+    "content": "5\nCompra e\nrevela uma\ncarta de Ideia.\nCompra uma carta\nde Escolha e a\nolha sem mostrar\naos outros,\ndepois a coloca\nde volta virada\npara baixo.\nCompra 7 cartas\nde Memória,\nsem mostrá-las\naos outros.\nDevolve quaisquer\ncartas de Memória não\nescolhidas para o topo do\nbaralho de Memória (mas\npode escolher manter\ntodas as 7 cartas).\nRevela livremente as cartas escolhidas\npara que os outros jogadores adivinhem\na ideia correta.\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\nExemplo\nA personalidade ativa…"
+  },
+  {
+    "page": 6,
+    "content": "6\nAs outras personalidades pensam e se\ncomunicam.\n· As outras personalidades tentam adivinhar\na palavra sintetizada olhando para as cartas\nde Memória. Elas podem falar, trocar ideias,\nargumentar... Mas elas não podem se\ncomunicar com a personalidade ativa.\nQualquer comunicação ou ajuda da\npersonalidade ativa invalida o turno\n(nenhum ponto é marcado e o turno\nacabou). Cartas de Memória colocadas na\nmesa não podem ser tocadas por nenhuma\npersonalidade até o final do turno.\nA personalidade dominante realiza seu\npalpite.\n· O jogador sentado à direita da\npersonalidade ativa é chamado de\npersonalidade dominante. Ela participa\nnormalmente da fase 4 como qualquer outro\njogador, mas tem a palavra final, mesmo\nque a decisão não esteja de acordo com\nas outras personalidades. Quando todos\ntiverem escolhido uma das palavras da carta,\na personalidade dominante anuncia qual\npalavra (ideia) ela acha que é a correta.\nA escolha da personalidade dominante é\ndefinitiva.\nA personalidade ativa revela a palavra.\n· Depois que a personalidade dominante\ntiver anunciado a palavra que ela\nescolheu, a personalidade ativa\nrevela a palavra correta da carta\nde Ideia revelando a carta de\nEscolha para comprová-la."
+  },
+  {
+    "page": 7,
+    "content": "7\n       Se a resposta está correta:\num sucesso é adicionado para as\npersonalidades e a carta de Ideia é colocada,\nvirada para cima, à direita do baralho de Ideia.\n         Se a resposta está errada:\numa falha será adicionada para as\npersonalidades e a carta de Ideia é colocada,\nvirada para cima, à esquerda do baralho de\nIdeia.\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\nvirada para cima\nvirada para cima\nPreparação para o próximo turno\n· Devolva as cartas de Memória usadas\npara a caixa: elas não serão usadas\nnovamente.\n· Embaralhe as cartas de Memória\nrestantes.\n· O jogador que foi a personalidade\nativa, nesse turno, se torna a nova\npersonalidade dominante, e o jogador\nque estiver à sua esquerda se torna a\nnova personalidade ativa."
+  },
+  {
+    "page": 8,
+    "section": "Fim de Jogo",
+    "content": "8\nFim de Jogo\nA partida termina:\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n· Assim que as\npersonalidades\nadivinharem\n6 palavras\ncorretamente\n(6 cartas de Ideia\nbem-sucedidas –\nà direita do baralho\nde Ideia).\nAs\npersonalidades\nsecundárias\nvencem o jogo\ne podem viver\nem paz dentro\nda cabeça de\nDany.\n· Assim que as\npersonalidades\nerrarem 3 palavras\n(3 cartas de Ideia\nque falharam –\nà esquerda do\nbaralho de Ideia).\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n< 7\nDany finalmente atinge\na lucidez. Vocês terão\nque jogar a Reviravolta\nFinal\n(veja a próxima página).\n· Se tiver menos\nque 7 cartas\nde Memória\nno baralho de\nMemória no\ninício do turno de\num jogador."
+  },
+  {
+    "page": 9,
+    "section": "Reviravolta Final",
+    "content": "9\nReviravolta Final\nSe há 3 respostas erradas ou há menos de 7 cartas\nde Memória disponíveis para a compra, vocês terão\nque jogar a Reviravolta Final.\n· Neste caso, todas as personalidades discutem por\num tempo e então contam até 3 e apontam para a\npessoa que eles acham que é Dany. A maioria vence\ne a personalidade votada deve revelar sua carta de\nPersonalidade.\n· No caso de empate, as personalidades empatas\nmantêm suas cartas de Personalidade viradas\npara baixo, enquanto todas as outras revelam\nsuas cartas. Se Dany é uma das personalidades\nreveladas, Dany vence a partida. Se a carta de Dany\nnão foi revelada ainda, uma nova votação ocorre\npara se escolher quem dos empatados é Dany. Se\nocorrer novo empate, Dany vence a partida!\n\nSe for a carta de Dany:\nAs personalidades secundárias\nvencem a partida e podem viver em\npaz dentro da cabeça de Dany.\nSe for uma carta de\npersonalidade secundária:\nDany vence e as personalidades\nsecundárias desaparecem da cabeça\nde Dany."
+  },
+  {
+    "page": 10,
+    "section": "Importante",
+    "content": "10\nIMPORTANTE\n               Se você for\nvocê terá que fazer as outras\npersonalidades terem dúvidas, tente\nfazer com que elas escolham palavras\nerradas e faça de tudo para que elas\nnão consigam a vitória. Mas claro,\nvocê deve tentar fazer isso tudo\nsem se expor, ou as personalidades\nsecundárias não darão ouvidos aos\nseus argumentos. Além disso, ficará\nimpossível você vencer a Reviravolta\nFinal se você se expor demais.\nRegras para a personalidade ativa:\n· Você não pode falar ou fazer gestos para\nmostrar toda ou parte de uma carta (como\napontar para um elemento específico de\numa carta).\n· Você não pode interagir com outros\nelementos da mesa (objetos, parte do corpo,\netc.). Memórias estão apenas na cabeça de\nDany, nada mais pode fazer parte da criação\nda ideia, exceto a superfície (mesa) que você\ncolocará as cartas.\n· Você tem que ser capaz de explicar a sua\ncriação se qualquer um perguntar por ela.\nSe você não conseguir, nenhum ponto é\nmarcado, mesmo se a palavra correta tiver\nsido encontrada."
+  },
+  {
+    "page": 11,
+    "section": "Variante e Créditos",
+    "content": "11\nVariante\nSe vocês acharem que as cartas de Memória\nacabam rápido demais, vocês podem jogar\ncom 35 ou 40 cartas de Memória (ou mais)\nem vez de jogar com as 30 mencionadas\nanteriormente.\n• Créditos •\nAutor\nPhil Vizcarro\nArtista\nAntoine Baillargeau\nDesenvolvimento\nPhil Vizcarro e GRRRE Games\nDesign Gráfico\nValeriane Holley\nAdaptação Gráfica\nMagdalena Okecki\nFontes\nChanga - Copyright (c) 2011 by Eduardo Tunni\nAmatic - Copyright (c) 2011 by Vernon Adams\n• Créditos da Versão Brasileira•\nEdição\nAntonio Sá\nTradução\nThiago Leite\nRevisão\nFlávia Najar"
+  },
+  {
+    "page": 12,
+    "section": "Resumo do Jogo",
+    "content": "12\nResumo do jogo\n1. A personalidade ativa se prepara: revele\na primeira carta de Ideia, compre 1 carta de\nEscolha e compre 7 cartas de Memória.\n2. A personalidade ativa se concentra: devolva\nas cartas de Memória não usadas.\n3. A personalidade ativa cria: revele as cartas\nque escolheu manter, da maneira que desejar.\n4. As outras personalidades pensam e se\ncomunicam.\n5. A personalidade dominante realiza seu\npalpite: Ela anuncia qual das palavras (ideia)\nela acha que é a correta.\n6. A personalidade ativa revela a palavra:\n7. Preparação para o próximo turno: devolva\nas cartas de Memória usadas para a caixa,\nembaralhe as cartas de Memória restantes, as\npersonalidades ativas e dominantes mudam.\n8. O jogo termina:\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n· Se há 6\nrespostas\ncorretas\n · Se há 3\nrespostas\nerradas\n1 · paz interior\n2 · alma\n3 · arrepentimiento\n4 · oriente\n5 · mundo\n< 7\n· Se há menos de 7\ncartas de Memória\nrestantes\n Reviravolta\nFinal\nvirada para cima\nvirada para cima\nSe correta,\n Se errada,"
+  }
+]
