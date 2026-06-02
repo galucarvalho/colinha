@@ -1,0 +1,42 @@
+[
+  {
+    "page": 1,
+    "section": "Manual de Regras",
+    "content": "Manual de Regras"
+  },
+  {
+    "page": 2,
+    "section": "Introdução",
+    "content": "Introdução\nAmigos de Merda é o jogo ideal para destruir suas\namizades, ser odiado por pessoas que acabou de conhecer\ne/ou arruinar qualquer tipo de reunião familiar. Destrua o\nseu natal com: Amigos de Merda.\nA ideia desse jogo é simples: em cada turno, uma carta\ndo baralho deve ser comprada. Essa carta possui uma\npergunta e vocês devem votar para decidir a resposta.\nComponentes\n88 cartas de\nperguntas\n21 cartas\nda expansão\n“SACANA”\n1 carta de Coroa\n1 Manual de Regras (este!)"
+  },
+  {
+    "page": 3,
+    "section": "Preparação / Como jogar",
+    "content": "Preparação\nEmbaralhe as cartas e coloque o baralho virado para baixo\nno meio da mesa ao alcance de todos.\nO primeiro jogador é o último que foi ao banheiro cagar.\nDecidam entre si quem foi o último cagão.\nComo jogar\nUma partida de Amigos de Merda se joga em turnos,\ncomeçando pelo Primeiro Jogador (o cagão) e seguindo em\nsentido horário. Cada turno se joga da seguinte forma:\n» O jogador da vez compra uma carta do baralho e a lê\nem voz alta.\n» Todos os jogadores (incluindo o que leu a carta) esperam\nalguns segundos (poucos!) para pensar na resposta.\n» Uma vez que todos já tenham pensado, o jogador da vez\nfaz uma contagem regressiva: 3... 2... 1...\n»  Ao final da contagem, todos devem apontar com o dedo,\nsimultaneamente, para a pessoa que escolheram como a\nresposta da pergunta (veja imagem na próxima página).\n» O jogador que for mais apontado é o “ganhador” e deve\nficar com a carta, colocando-a na sua frente."
+  },
+  {
+    "page": 4,
+    "section": "Importante / Empate",
+    "content": "NOTA: Em caso de empate em uma votação, qualquer\njogador que NÃO tenha votado em nenhum dos empatados\npoderá trocar o seu voto para um deles. Se ainda assim o\nempate persistir, o voto do jogador da vez irá desempatar.\nIMPORTANTE\nSim, você é obrigado a escolher alguém e está\nPROIBIDO de votar em si mesmo. De vez em quando\numa carta “difícil” pode aparecer.\nSe vira! Difícil é lutar contra o câncer, não dizer\nna cara do(a) amiguinho(a) que você nunca\nparticiparia de um ménage com ele(a).\nGanhou a carta"
+  },
+  {
+    "page": 5,
+    "section": "Fim de Jogo",
+    "content": "Fim de Jogo\nO jogo termina quando algum jogador adquire 5 cartas.\nEsse jogador é coroado como Amigo de Merda.\nNote que nós incluímos uma carta com uma coroa nesse\njogo. Quando o jogo acabar e estiver bem claro quem é o\npior amigo entre vocês, faça-o tirar uma foto com todas as\ncartas que ganhou E com a coroa.\n\nNão se esqueça de postar essa foto no Instagram e de nos\nmarcar @burobrasil. Assim, poderemos mostrar aos nossos\nseguidores o tipo de gente que vocês são."
+  },
+  {
+    "page": 6,
+    "section": "Variantes",
+    "content": "Variantes\nPARTIDAS MAIS LONGAS OU MAIS RÁPIDAS\nPara uma partida mais longa ou mais rápida, vocês podem\nmudar o número de cartas necessário para ganhar. 7\ncartas é ideal para uma partida mais demorada, e 4 cartas\npara uma partida rápida ou com muitos jogadores.\nAMIGO INVISÍVEL\nEsta variante se joga igual a uma partida normal, mas,\nantes de começar, cada jogador deve escrever em\num papel o nome de uma pessoa/personagem que NÃO\nestá presente, e colocá-lo na sua frente. Na votação,\no personagem é votado no lugar do jogador.\nVARIANTE ALCOÓLICA\nIgual a uma partida comum, mas bebendo. Adicione\nas regras:\n» Sempre que alguém ganhar uma votação (ganhar\nempate não conta), essa pessoa bebe.\n» Se alguém ganhar uma votação de forma unânime,\nessa pessoa bebe em dobro.\n» Se em algum momento apenas um jogador não tiver\nnenhuma carta, ele(a) deve beber.\n» Em caso de empate, todos bebem."
+  },
+  {
+    "page": 7,
+    "section": "Expansão Sacana / Agradecimentos",
+    "content": "» Se alguém rir enquanto lê a carta, essa pessoa bebe.\n» Sempre que um jogador reclamar do resultado de uma\nvotação, essa pessoa bebe.\nATENÇÃO! Expansão Sacana\nAs cartas rosas são iguais às cartas pretas e brancas do\njogo básico, mas possuem perguntas de ídole sacana.\nSe for usá-las, misture-as com as cartas do jogo básico.\nNão usar na presença de devotos, beatos, puritanos,\ncastos, sacerdotes, pregadores, ingênuos, Fariseus,\napóstolos e nem lefebvristas. Nós te avisamos!\nAgradecimentos\nAo Drako, Paula, Tori, Toto, Chester, Tati, Bianca, Pati, Martu,\nTais, Veru, ao namorado de Veru, Vicha e uma boa parte da\nfamília Mehlman que ajudaram a testar este jogo.\nA Moni, por ler o manual, encontrar erros e pelos bolinhos\nde arroz integral.\nAo meu avô que, no dia do meu casamento, me disse:\n“Lembre-se sempre, meu filho: se você ainda não\ndescobriu quem é o amigo de merda do seu grupo,\né porque o amigo de merda é você”."
+  },
+  {
+    "page": 8,
+    "section": "Editorial de Merda",
+    "content": "Editorial de Merda\nComo sobrou uma página no manual e nos falta dignidade,\nvamos usar esta página para te contar o que você pode\nfazer para nos ajudar a publicar mais jogos:\n» Compre todos os nossos jogos (duh).\n» Nos siga em nossas redes sociais e curta compulsivamente\ntodas as nossas postagens no Instagram e Facebook.\nContas fakes são bem-vindas.\n» Presenteie seus amigos e familiares com nossos jogos!\nNo Hanukkah pode dar até 8!\n» Entre em todos os lugares e pergunte se eles vendem\nnossos jogos. Desde lojas de jogos até o açougue do\nseu bairro.\n» De vez em quando, quando estiver reflexivo, olhe para\no céu e grite “VAMOS, BURÓ!”\n» Nos impressione postando fotos jogando nossos jogos\ne nos marcando. Nos impressione MUITO postando fotos\njogando nossos jogos e vestidos com pijamas de Pokémon."
+  }
+]
