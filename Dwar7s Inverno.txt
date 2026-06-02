@@ -1,0 +1,122 @@
+[
+  {
+    "page": 1,
+    "section": "Capa",
+    "content": "1\nDwar7s Winter\nCreated by Luis Brüeh"
+  },
+  {
+    "page": 2,
+    "section": "Componentes",
+    "content": "Componentes\nAmigo anão, confira nosso estoque. Estude nossas ferramentas de trabalho. Aprenda a cantar e tocar nossas músicas.\nVamos precisar disso para sobreviver o inverno terrível que se aproxima. É muito fácil, apenas me acompanhe: — Eu vou...\nTabuleiro (48x48cm)\n4x Tabuleiro dos jogadores  (25x15cm)\n24x Marcador dos\njogadores\n(6 por jogador)\n4x Marcador de\nMúsica\nMarcador de 1º\njogador\nMarcador de\nInverno\nHeróis Iniciais (28 cartas) Heróis (28 cartas)\n Desastres (12 cartas)\n10x Marcadores\nde desastre\n2"
+  },
+  {
+    "page": 3,
+    "section": "Componentes",
+    "content": "16 Miniaturas de monstros (2 de cada tipo)\nMonstros (16 cartas)\n28 Miniaturas de anão (7 de cada cor)\nGame Designer e Artista: Luís Brüeh | Game Developer e Gerente de projetos: Constantine Kevorque\nPlaytesters: Alexandros Manos, André Teruya Eichemberg, Anastasios Grigoriadis, Carlos Couto, Evellyn Brüehmüeller, Fer-\ndinand Andrew, Fernando Celso,  Igor Knop, Iriana Theoharopoulos, Jesse Galloway, Joe Sallen, Karen Soarele, Luís Francisco\nCoutinho, Reid Palmer, Renato José Lopes, Rodrigo Deus, Sam Fraser, Stefani Angelopoulos | Agradecimentos especias: Ama-\nrice, Fabio Piovesan, Darren Hsiao & Boardsheep, John Jacobs, Kei Kouji, Grizzly Overland, Patrick Stangier, Tim Hotaling.\nSuporte: support@vesuviusmedia.com  | Copyright: Vesuvius Media - 2017\n3"
+  },
+  {
+    "page": 4,
+    "section": "Organização",
+    "content": "4\nOrganizaçao\nO inverno chegou... E nós acreditamos estar preparados. Nossas muralhas são reforçadas, mas precisamos de\nheróis para nos defender dos inimigos! Essa batalha será difícil, mas os bardos cantarão nossos feitos.\nB\nC\nF\nG\nD1\nD2\nE\nA\nH\nJ\nA\nEmbaralhe as cartas de monstro. Coloque o baralho\ne as miniaturas de monstro próximos à area de jogo.\nMonstros:\nColoque o tabuleiro no centro da mesa de jogo.\nTabuleiro:B\nEmbaralhe as cartas de herói de compra e\nrevele 4 delas para formar o salão de heróis.\nHeróis:C\nD\nEmbaralhe as cartas de desastre. Coloque o\nbaralho e os marcadores de desastre próxi -\nmos à area de jogo.\nDesastres:\nCada jogador recebe um tabuleiro pessoal,\n1 conjunto de marcadores de recursos, e um\nmarcador de música.\nTabuleiro dos jogadores:E\nF\nCada jogador recebe 7 anões de sua cor\nescolhida e os coloca em seu tabuleiro de\njogador.\nMiniaturas dos jogadores:\nI\nK"
+  },
+  {
+    "page": 5,
+    "section": "Organização",
+    "content": "5\nG\nCada jogador recebe 7 cartas de Heróis iniciais (1\nde cada) Para formar seu baralho de heróis. Tenha\nem mente que todas as cartas de Herói iniciais\nvalem 0 Pontos de vitória (PVs) ao fim da partida.\nCartas de herói iniciais possum um pequeno laço da cor\nda equipe de jogadores.\nBaralho de Heróis:\nTabuleiro do Jogador:\nExistem 4 recursos no jogo: Ouro, Madeira, Pedra e\nComida. Você começa a partida com 2 de cada um\ndesses recursos. Use a moeda para marcar a sua\nquantidade de ouro na trilha e 1 de suas caixas para\nmarcar Comida, Pedra e Madeira.\nSempre que ganhar ou perder recursos, mova o\nmarcador relevante em sua respectiva trilha. Você nunca\npode ter mais do que 7 de nenhum tipo de recursos.\nColoque um pergaminho no 5 na trilha de Ações. E\num pergaminho no 7 da trilha de Mão. A trilha de ação\nrepresenta quantas ações você pode fazer em seu turno,\nenquanto a de Mão, quantas cartas você pode escolher\nno início da rodada.\nEm uma partida para 3 jogadores,\nrevele 1 desastre ao lado do tabuleiro.\nPara 4 jogadores, revele 2 desastres.\nO Mal espreita: I\nEm sentido horário à partir do primeiro jogador, o 2º jo-\ngador aloca 1  anão em qualquer zona do tabuleiro. Após\nisso, o 3º e o 4º jogadores alocam 2 anões em quaisquer\nzonas do tabuleiro.\nOs Defensores: J\nO jogador mais jovem\nrecebe o marcador de 1º\njogador.\nMarcador de 1º Jogador H\nTrilha do Inverno:K\nPosicione o marcador de inverno no 1º espaço\nna trilha do Inverno.\n0 0 0 0\nTrilha de Ação Trilha de Mão"
+  },
+  {
+    "page": 6,
+    "section": "O Campo de Batalha",
+    "content": "6\nPor exemplo, ao revelar um Desastre\nou um Monstro com o ícone ao lado,\nestamos nos referindo a uma zona\nde MINA, com o número 4 sobre ela.\nO Campo de Batalha\nExistem 5 tipos de zona diferentes no tabuleiro principal:\nCastelo Muralha\nPara começar a jogar, prossiga para a visão geral.\nFloresta Mina Campo\nCada uma das zonas (com excessão do castelo) possuem\num tipo e ao lado deste, um número. Essas combinações\núnicas são utilizadas no jogo para designar aquela zona\nespecifica durante a partida.\nA imagem na página ao lado, exemplifica a preparação de uma mesa de jogo para 4 jogadores.\nAnões podem ser alocados ou movidos sobre quaisquer\nzonas no tabuleiro. Você poe ter mais de um monstro,\ndesastres, e anões ocupando uma mesma zona.\n4"
+  },
+  {
+    "page": 7,
+    "section": "Exemplo de mesa",
+    "content": "7\nMina\nSalão de Músicas Trilha do Inverso. Caso você sobreviva por\n7 semanas, conte os PV para determinar o vencedor\nMonstros\nAtivos\nDesastres\nAtivos\nSalão de Heróis\nCastelo\nFloresta\nFloresta Floresta\nFloresta\nCampo Campo\nCampo\nCampo\nMina\nMina\nMina\nCusto dos Heróis"
+  },
+  {
+    "page": 8,
+    "section": "Visão Geral / Fase 1: Invasão Inimiga",
+    "content": "8\nVisao Geral\nO inverno invadiu nossas muralhas com suas garras geladas! Por isso, os anões terão de lutar contra as\nterríveis criaturas e desastres naturais. Cada clã almeja possuir o maior número de pontos de vitória (PVs),\nmas a única maneira de sobrevivermos este terrível inverno será trabalharmos juntos.\nUma partida de Dwar7s Inverno dura 7 rodadas, chamadas de “semanas”. Cada semana é dividida em 4\nfases. Após o término da 7ª semana, são contados os pontos para determinar o vencedor.\nFase 1: Invasao Inimiga\nO 1º jogador decide em qual ordem os monstros serão ativados. Esconhe o monstro, move-o uma zona em direção\nao castelo e, após isso, ativa a sua habilidade. Depois disso, o 1º jogador escolhe o próximo monstro e repete esse\nprocesso até que todos os monstros do tabuleiro houverem sido movidos e suas habilidades aplicadas.\n... E depois ative sua habilidade!\nMova cada monstro um passo mais próximo ao castelo...\n1.2) Ataque dos Monstros\n1.1) Renove as Trilhas\nTodos os jogadores movem seus pergaminhos e colocam suas\ntrilhas de Mão no 7 e a trilha de Ações no 5. Cada jogador pega seu\nmarcador de música, no salão de músicas.\nFase 1: Invasão Inimiga   |   Fase 2: Preparação    |    Fase 3: Ações    |    Fase 4: Resolução\nSe não houverem monstros no tabuleiro, nada acontece. Nesse caso, prossiga para 1.3 Monstros à Espreita"
+  },
+  {
+    "page": 9,
+    "section": "Habilidades dos Monstros",
+    "content": "9\nSe você possuir um anão\nnesta zona ou adjascente,\nperca 1 Ação.\nEscolha um monstro e\nmova-o uma vez mais em\ndireção ao castelo.\nSe você possuir um anão\nnesta zona ou adjascente\ndiminua uma carta da mão.\nSe você possuir um anão\nnesta zona ou adjascente,\nperca uma Madeira.\nSe você possuir um anão\nnessa zona, remova-o para\nseu tabuleiro de jogador.\nQuando revelado, ative\n1 Desastre adicional do\nbaralho.\nSe você possuir um anão\nnesta zona ou adjascente,\nperca uma Comida.\nBloqueia o instrumento\nrelativo à zona em que esse\nmonstro está.\nHabilidades dos Monstros\nCada Monstro tem sua própria habilidadade que pode mudar o curso do jogo. Exceto caso seja dito o contrário, a\nhabilidade de um monstro é ativada quando ele ataca. Além disso, você não pode produzir recursos em uma zona\nocupada por um  monstro. Apenas cartas de herói com a palavra “produza” são afetadas. Se você não possuir recursos\n(Madeira, Comida ou Pedra) para perder devido a uma habilidade de monstro, você perderá Ouro.\nAplique os efeitos da habilidade a todos os clãs afetados pelo monstro. Por exemplo,  Se o monstro faz o jogador\nperder uma ação na rodada, desça a trilha de Ação de todos os jogadores afetados. As habilidades de monstro\nafetam todo o clã, e não são modificadas pelo número de anões afetados. Desse modo, caso você possua 2 anões em\nzonas afetadas por um Gigante do Gelo você perderá 1 Ação, ao invés de 2.\nSempre que um monstro o fizer perder uma Ação ou Carta na Mão, reduza o marcador relevante em seu\ntabuleiro do jogador. Você nunca terá menos de 5 Cartas ou 3 Ações no início de sua rodada."
+  },
+  {
+    "page": 10,
+    "section": "1.3) Monstros à Espreita",
+    "content": "10\n1.3) Monstros a Espreita\nDepois de mover todos os monstros no tabuleiro, revele novos monstros (caso seja nescessário) baseado no número de\njogadores. Ao final dessa fase, você deverá ter um número de monstros no tabuleiro igual ao descrito abaixo:\nMonstros:   1 Jogador: 2 Monstros; 2 Jogadores: 3 Monstros; 3-4 Jogadores: 4 Monstros.\nPVs ganhos\nHabilidade\nZona de entrada\nNúmero de anões\nna zona requeridos\npara derrotá-lo\nRecursos requeridos\npara derrotá-lo\nPara revelar um novo monstro, o 1º jogador compra a carta to topo do baralho de monstro e coloca-a em seu devi-\ndo lugar ao lado do tabuleiro. Depois disso, posicione a miniatura daquele monstro na zona de entrada indicada. É\npossivel que mais de 1 monstro ocupe a mesma zona.\nAlguns monstros, como o Ogro Rei, possuem uma habilidade que se ativará imediatamente quando forem\nrevelados. Você deverá resolver esses efeitos imediataente quando esse monstro entrar no tabuleiro."
+  },
+  {
+    "page": 11,
+    "section": "1.4) Revele um desastre",
+    "content": "11\n1.4) Revele um desastre\n o 1º jogador compra a carta to topo do baralho de monstro e coloca-a em seu devido lugar ao lado do tabuleiro. Depois\ndisso, posicione uma ficha de desastrle na zona de entrada indicada.\nPvs ganhos\nOuro ganho\nZona de entrada\nNúmero de anões\nna zona requeridos\npara supera-lo\nRecursos requeridos\npara supera-lo\nDesastres não se movem. Eles se mantém em uma zona até que 1 jogador com o supere pagando seu custo.\nAté que um desastre seja superado e seu marcador removido, você não poderá produzir recursos nessa zona.\nApenas cartas com a palavra “produza” são afetadas por desastres.\nCaso, ao fim de uma semana, houverem 4 ou mais Desastres ativos, os jogadores perdem o jogo imediatamente.\nDica: sempre que possível, tente evitar que todos os seus recursos de um mesmo tipo sejam bloqueados por\ndesastres ou monstros. Caso você não tome cuidado com isso, você pode acabar em uma armadilha mortal."
+  },
+  {
+    "page": 12,
+    "section": "Fase 2: Preparação",
+    "content": "12\nFase 2: Preparaçao\nDurante a fase de preparação, os jogadores preparam sua mão de Heróis com as cartas disponíveis\nem seu baralho de ações. Essas cartas serão usadas posteriormente na fase de ações.\nOlhe o seu baralho pessoal de ações. Esses são seus heróis! Cada jogador começa o jogo com\nas mesmas 7 cartas de heróis iniciais em seu baralho de heróis. Conforme o jogo progride, seu\nbaralho irá aumentar e será personalizado com os Heróis que você adquire.\nEscolha um número de cartas do baralho de Heróis é igual ao número indicado na sua trilha de Mão em seu\ntabuleiro de jogador. Essas cartas escolhidas formarão sua mão durante a rodada, mantenha o restante de suas\ncartas viradas para baixo abaixo de seu tabuleiro do jogador.\nComo essas são as únicas cartas de ação que você poderá usar nessa\nrodada, escolha-as com sabedoria para se adequar a sua estratégia!"
+  },
+  {
+    "page": 13,
+    "section": "Fase 3: Ações",
+    "content": "13\nFase 3: Açoes!\nA trilha de ações em seu tabuleiro pessoal indica quantas ações você poderá realizar na fase de ações. Qualquer combina-\nção das ações disponíveis pode ser feita, como: Aloque um Anão; Mova um Anão; Adquira um Herói; ou Cante Junto (Eu\nvou! Eu vou!). Você ainda pode Derrotar Monstros ou Superar Desastres como ações livres, desde que você possua os\nRecursos e anões necessários para isso.\n3.1) Aloque um Anao\nGastando uma ação, você pode alocar 1 Anão de seu tabuleiro pessoal em\nqualquer uma das zonas, mas você jamais poderá alocar 2 Anões de seu\ntabuleiro pessoal na mesma zona, no mesmo turno. Você pode fazer esta\nação quantas vezes quiser em um turno, pagando seu custo em ações.\n3.2) Mova um Anao\nGastando uma ação, você pode mover 1 de seus Anões no tabuleiro para\numa zona adjascente. Você pode fazer esta ação quantas vezes quiser em\num turno, pagando seu custo em ações."
+  },
+  {
+    "page": 14,
+    "section": "3.3) Adquira um Herói",
+    "content": "14\n3.3) Adquira um Herói\nPara adquirir uma carta do Salão dos Heróis, você precisa gastar\numa Acão e pagar o custo em Ouro indicado no tabuleiro. Coloque a\ncarta recém adquirida virada para baixo em seu baralho de Heróis.\nDepois, deslize as cartas restantes para a direita e vire uma nova\ncarta do baralho geral para completar a oferta. Você pode realizar\nessa Ação apenas uma vez por turno.\nPVs Ganhos\nHabilidade do Herói\nInstrumento Musical\nPossuir uma boa variedade de cartas em seu Baralho de Heróis é o segredo para vencer a partida.\n1) Escolhaum Herói 2) Pague\nseu custo\n3) Coloque em\nseu Baralho 4) Deslize e\ncomplete"
+  },
+  {
+    "page": 15,
+    "section": "3.4) Cantar Junto",
+    "content": "15\n3.4) Cantar Junto\nGaste 1 Ação para tocar um instrumento musival que ainda não\nfoi tocado essa rodada. Aloque seu Marcador de Música sobre o\ninstrumento músical escolhido no Salão de Músicas no tabuleiro\nprincipal.\nVocê não pode escolher um instrumento musical que já usado nessa\nrodada. Você pode ativar e resolver imediatamente qualquer número\nde cartas de sua mão, desde que essas combinem com o instrumento\nescolhido. Você não é obrigado a ativar todas as cartas daquele\ninstrumento.\nQuando você tiver terminado de ativar suas cartas, cada um dos outros\njogadores (sem sentido horário) e ativar quantas cartas quiserde sua\nmão do instrumento escolhido.\nVocê pode realizar essa Ação apenas UMA VEZ por turno.\nNesse exemplo, o jogador amarelo escolheu ativar o Tambor posicionando seu marcador de música sobre o ícone\ncorresondente no Salão de Músicas no tabuleiro. Ele ativa sua carta para Produzir 1 Madeira para cada Floresta que\nocupa. Como ele possui 2 Anões em zonas de Floresta diferentes, o jogador amarelo receberá 2 Madeiras.\n...então o jogador amarelo ativa outra carta de tambor\npara mover 1 anão da Floresta 1 para a Mina 4."
+  },
+  {
+    "page": 16,
+    "section": "3.4) Cantar Junto - exemplo",
+    "content": "16\nEntão, um a cada vez, em sentido horário, cada um dos jogadores pode\nseguir sua música e ativar quantas cartas quiser de sua mão.\n...como é impossível produzir recursos em zonas occupadas por Desastres, o jogador vermelho\ndecide começar por ativar uma carta para mover seu anão Floresta 2 para a Floresta 1.\n...então o jogador vermelho ativa  sua 2 carta para produzir 1 Madeira.\n...finalmente o jogador vermelho ativa sua 3ª carta e ganha uma Pedra.\nLembre-se: Produzir recursos está ligado à sua presença em um tipo específico de zona que\npode ser bloqueada por Monstros ou Desastres."
+  },
+  {
+    "page": 17,
+    "section": "Habilidades dos Heróis",
+    "content": "Produza 1 Pedra em\ncada Mina ocupada\npor seus Anões.\nProduza 1 Madeira em\ncada Floresta ocupada\npor seus Anões.\nProduza 1 Comida em\ncada Campo ocupado\npor seus Anões.\nGanhe 1 Ouro.0\nMova 1 Anão (seu ou de\noutro jogador) em uma\nFloresta por 1 zona.\nMova 1 Anão (seu ou de\noutro jogador) em uma\nMina por 1 zona.\nMova 1 Anão (seu ou\nde outro jogador) em\num campo por 1 zona.\n0\n1\n2\nGaste 2 Ouros para\nadquirir 1 carta qualquer\ndo Salão dos Heróis\nGanhe 1 Comida, 1\nPedra e 1 Maçã.\nAloque ou Mova até 2 de\nseus Anões.\nGanhe 2 Pedras.Ganhe 2 Madeiras. Ganhe 2 Comidas. Ganhe 2 Ouros.\nHabilidades dos Heróis"
+  },
+  {
+    "page": 18,
+    "section": "Habilidades dos Heróis",
+    "content": "2\nGanhe 1 Comida ou 1\nOuro.\nGanhe 1 Madeira ou 1\nComida.\nGanhe 1 Madeira ou\n 1 Pedra.\n2 Ganhe 1 Pedra ou 1\nOuro.\n2\n3\nMova 2 Anões (seus ou\nde outro jogador) em\nzonas de Campo por 1\nzona.\nMova 2 Anões (seus ou\nde outro jogador) em\nzonas de Floresta por\n1 zona.\nMova 2 Anões (seus\nou de outro jogador)\nem zonas de Mina por\n1 zona.\nAloque ou Mova 1 de\nseus anões.\nGaste 1 Pedra para\nganhar 3 Ouros.\nGaste 1 Madeira para\nganhar 3 Comidas.\nRemova 1 de seus\nAnões do tabuleiro\npara ganhar 3 Ouros.\nGanhe 1 Madeira. Ganhe 1 Comida. Ganhe 1 Pedra. Ganhe 1 Ouro.\nQuase tudo pode ser consertado por meu martelo.\nOu meu machado. Em último caso, hidromel.\n18"
+  },
+  {
+    "page": 19,
+    "section": "Ações Livres",
+    "content": "19\n3.5) Açao Livre: Derrote um Monstro\n3.6) Açao Livre: Supere um Desastre\nEm seu turno, se você ocupar a mesma zona que o monstro e possuir o número requerido de Anões e recursos, você po-\nderá derrotá-lo. Retorne os Anões descartados para derrotar o Monstro para seu tabuleiro de jogador, ajuste suas trilhas\nde recursos de acordo e remova a miniatura do Monstro derrotado do tabuleiro. Finalmente, colete a carta do Monstro\nderrotado e a mantenha com a face virada perto de seu tabuleiro de jogador para pontuar ao fim do jogo.\nEm seu turno, se você ocupar a mesma zona que o desastre e possuir o número requerido de Anões e recursos, você\npoderá superá-lo. Retorne os Anões descartados para superar o Desastre para seu tabuleiro de jogador, ajuste suas trilhas\nde recursos de acordo e remova o marcador do desastre superado do tabuleiro. Finalmente, colete a carta de Desastre\nsuperada e a mantenha com a face virada perto de seu tabuleiro de jogador para pontuar ao fim do jogo."
+  },
+  {
+    "page": 20,
+    "section": "Fase 4: Resolução",
+    "content": "20\nFase 4: Resoluçao!\nCaso, ao fim de uma semana, você possuir 4+ Desastres ativos ou um Mons-\ntro dentro de seu Castelo, todos os jogadores perdem o jogo!\nSe esta é a 7ª semana e vocês conseguiram manter seu castelo intacto e\nnão foram soterrados por desastres... Vocês sobreviveram ao Inverno!\nConte os pontos de vitória para determinar o vencedor enquanto os pri-\nmeiros sinais da primavera despontam no horizonte.\nSe esta NÃO é a 7ª semana e vocês ainda estão\nvivos, mova o marcador de Inverno uma posição\npara a direita e passe o marcador de 1º jogador\npara o próximo jogador (em sentido horário)."
+  },
+  {
+    "page": 21,
+    "section": "Vencendo o Jogo",
+    "content": "21\nVencendo o Jogo:\nAo fim da partida, o jogador com o maior número de pontos de vitória (PV) vencerá.\nVocê irá pontuar todos os seguintes itens:\nMonstros Derrotados:\nCada monstro derrotado vale em\npontos o valor descrito no canto\nsuperior direito de sua carta.\nDesastres Superados:\nCada desastre superado vale em\npontos o valor descrito no canto\nsuperior direito de sua carta.\nHeróis Adquiridos:\nCada herói em seu baralho vale em\npontos o valor descrito no canto\nsuperior direito de sua carta.\nProdução:\nPara cada recurso maximizado até\na 7ª casa ao fim da partida, ganhe\na quantidade de pontos descrita\nem seu canto direito.\nMilícia:\nAo fim da partida,\ncaso todos os seus\nanões estejam de\nvolta em seu tabuleiro\nde jogador, você irá\nreceber 3 PVs.\nEm caso de Empate:\nCaso ocorra, o jogador com mais anões em seu\ntabuleiro pessoal vencerá, depois o jogador com\nmais PVs por cartas de herói, depois o com mais\nOuro, depois mais Comida, Depois mais Pedra,\nDepois mais madeira, Depois para o que superou\nmais Desastres, e finalmente para o que venceu\nmais Monstros. Se ainda assim for um empate, os\njogadores irão compartilhar a vitória."
+  },
+  {
+    "page": 22,
+    "section": "Exemplo de pontuação",
+    "content": "22\nExemplo de pontuaçao:\nPor possuir 7 Ouros ao fim do jogo, o\njogador amarelo ganha 3 PVs.\nPor possuir 7 Pedras ao fim do jogo,\no jogador amarelo ganha 2 VPs.\nPor possuir 7 Anões em seu tabuleiro\nde jogador ao fim do jogo, o jogador\namarelo ganha 3 PVs.\nO jogador amarelo também\nconta os pontos de todas as\ncartas de Herói que adquiriu\ndurante a partida, somando:\n(3+2+2+2+1+3) 13 PVs.\nE finalmente, conte os PVs de todos os\nDesastres superados pelo jogador (3+3) e\nmonstros derrotados (5+3). Total: 14 PVs.\nAssim, a pontuação total do jogador amarelo é: 3+2+3+13+14= 35 PVs!\nPontuaçao Final:"
+  },
+  {
+    "page": 23,
+    "section": "Variantes",
+    "content": "23\nVariante - Solo:\nO jogador inicia a partida com 4 de\nOuro e 4 de cada Recurso.\nAo invés de receber 1 marcador de música o\njogador receberá 3. Em uma partida solo, tocar\numa música é considerado uma ação livre.\n\nVocê pode gastar quantas ações quiser (até\nseu limite de ações) para comprar cartas de\nHerói no Salão dos Heróis.\nEm uma partida solo, siga todas as regras descritas\ncom as seguintes mudanças:\n1\n2\n3\nCaso você sobreviva o inverno, compare sua pontuação\ncom a tabela abaixo para medir o seu sucesso:\nO Sobrevivente: 25 PVs e superar 4+ Desastres.\nO Caçador de Monstros: 30 PVs e derrotar 5+ Monstros.\nO Cavaleiro da Távola: 35 PVs e ter adquirido 7+ cartas de\nHerói do Salão dos Heróis.\n\nO Rei Gelado: 40 PVs e possuir ao menos 1 de seus Recur-\nsos maximizado na 7ª posição.\nA Lenda: 50+ PVs ter derrotado  7+ Monstros e superado\n7+ Desastres.\nVariante - Pesadelo:\nVariante - Sede de Sangue:\nPara cada tipo diferente de monstro que você\nderrotar, adicione 1 PV extra ao fim da partida.\nSe você preferir ter partidas ainda\nmais difíceis, nas semanas 3, 5 e 7,\nrevele 2 Desastres, ao invés de 1.\nNeste exemplo, o jogador receberia\n18 PVs por derrotar estes monstros e mais 3\nPVs adicionais por sua sede de sangue."
+  },
+  {
+    "page": 24,
+    "section": "Expansão: Os Lendários",
+    "content": "24\nGuerreiro do Gelo:\nConta como 2\nanões, apenas para\nderrotar Monstros.\nGuardião da Terra:\nCaso esteja em uma\nzona de Desastre, você\npaga 1 Recurso a me-\nnos para superá-lo.\nRei do Trovão:\nAlocar ele em uma zona\nvindo de seu tabuleiro de\njogador é considerado\numa ação livre.\nAs classes Lendárias:\nDurante a preparação, todos os jogadores recebem uma carta de herói inicial adicio-\nnal (Sábio). O sábio permite a você transformar um de seus trabalhadores regulares\nem um Anão lendário (veja abaixo) ao custo de 2 Ouros. Devolva uma das miniaturas\nde anão na caixa  e substitua-a pela miniatura lendária correspondente de sua cor. Você\npode fazer isso diversas vezes durante o jogo até ter um de cada anão lendário. Possuir\num anão lendário vale 2 pontos de vitória ao fim do jogo (cada).\nExpansao: os Lendários!\nA ira da Rainha do Gelo está se provando muito mais do que nossos heróis podem suportar. Chegou a hora\nde descer novamente ao fundo das cavernas de cristal e invocar as lendas da Terra, Gelo e Trovão!\nSe você possuir um anão nesta\nzona ou adjascente, mova esse\nmonstro novamente.\nSe você possuir um anão\nnesta zona ou adjascente,\nperca 1 Pedra.\nSe você possuir um anão\nnesta zona ou adjascente,\nperca 1 de cada Recurso.\nHabilidades dos Monstros Lendários\nComponentes: 12 Desastres; 8 Monstros (cartas e miniaturas); 4 Heróis iniciais; 12 Anões Lendários.\nTodo conteúdo adicional dessa expansão possuí o ícone ao lado:\nSe você possuir um anão\nnesta zona ou adjascente,\nperca 1 Ouro.\nO efeito bola de neve:\nSempre que você revelar um desastre na mesma zona de outro desastre no tabuleiro e\npossuir 3 desastres ativos (ou menos), revele um desastre adicional."
+  }
+]

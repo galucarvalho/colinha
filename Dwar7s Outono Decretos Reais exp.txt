@@ -1,0 +1,50 @@
+[
+  {
+    "page": 1,
+    "text": "Dwar7s Outono - Decretos Reais. Criado por Luís Brüeh."
+  },
+  {
+    "page": 2,
+    "text": "Acampamentos\n\nUse essas cartas para se lembrar da cor de seus personagens e para alocar seus meeples enquanto eles estão descansando entre os turnos."
+  },
+  {
+    "page": 3,
+    "text": "Classes de Anões (1)\n\nNa sua fase de tarefas, promova um anão ao custo de uma ação, descartando a quantia de gemas necessárias e substituindo um dos meeples comuns de sua pilha por um de classe. Meeples promovidos possuem habilidades especiais e valem PV extras ao fim do jogo.\n\nGuerreiro:\nAo custo de uma ação, você pode empurrar um meeple inimigo que estiver na mesma carta que seu guerreiro para uma carta adjacente. Custo: 1 diamante. Valor: 2 PV."
+  },
+  {
+    "page": 4,
+    "text": "Classes de Anões (2)\n\nGuardião:\nUma carta de reinado que possuir um guardião alocado não pode ser alvo de cartas de ogro. Custo: 1 esmeralda. Valor: 2 PV.\n\nRei:\nAlocar o rei em uma carta de reinado é considerado uma ação livre. Custo: 2 ouros. Valor: 2 PV."
+  },
+  {
+    "page": 5,
+    "text": "Novo objetivo secreto\n\nEsta expansão adiciona um novo objetivo secreto: Aventureiros.\n\nPara conquistar esse objetivo, você precisa vencer um monstro usando pelo menos 3 tipos diferentes de meeples."
+  },
+  {
+    "page": 6,
+    "text": "Decretos Reais\n\nAcordo:\nSe, ao fim de seu turno, uma carta de reinado está lotada de anões, mas ninguém completou uma tarefa ali, descarte esses anões de volta para as pilhas. Isso não se aplica para cartas de monstros.\n\nMemorial de batalha:\nQuando um monstro é derrotado, construa um memorial onde ele estava. A tarefa da carta de memorial lhe permite rotacionar uma carta de reinado sem anões alocados."
+  },
+  {
+    "page": 7,
+    "text": "Decretos Reais\n\nTurno de trabalho:\nUse o machado como token de 1º jogador. Divida as rodadas em 2 fases:\n\nManhã:\nO 1º jogador faz sua fase de tarefas, mas não resolve ou descarta. Todos os outros jogadores fazem o mesmo, em sentido horário.\n\nNoite:\nO 1º jogador resolve e descarta. Todos os outros jogadores fazem o mesmo, em sentido horário. Ao fim da fase da noite, passe o machado, token de 1º jogador, para o próximo jogador no sentido horário."
+  },
+  {
+    "page": 8,
+    "text": "Decretos Reais\n\nFortaleza:\nVocê pode alocar anões apenas em cartas de seu próprio reino ou em cartas que não são parte de nenhum reino. Se não houverem espaços vagos para se alocar, você pode gastar 1 ação para rotacionar uma carta de reinado sem anões alocados.\n\nBalonistas:\nVocê não pode alocar mais de 1 anão de sua pilha para a mesma carta de reinado a cada turno. Você ainda tem 3 ou 4 ações por turno."
+  },
+  {
+    "page": 9,
+    "text": "Decretos Reais\n\nLatifundiários gananciosos:\nSe dois ou mais jogadores dividem um reino, ao final da partida eles dividem os pontos de vitória, arredondados para baixo.\n\nMercadores:\nVocê pode usar o custo de objetivos de troca como recursos para comprar um novo objetivo de troca com preço mais elevado. Se você o fizer, retorne o objetivo de troca descartado de volta à oferta de objetivos de troca."
+  },
+  {
+    "page": 10,
+    "text": "Decretos Reais\n\nBrigas de bar:\nSe você possui 3 anões alocados em uma taverna, você pode coletar 2 cartas de ogro, ao invés de 1.\n\nCaçadores de monstros:\nCada monstro derrotado diminui a quantidade necessária de anões para derrotar o próximo monstro em 1, ao mínimo de 3.\n\nTerceirizados:\nVocê pode descartar uma carta de ogro, sem usar seu efeito, para ganhar 1 ação neste turno."
+  },
+  {
+    "page": 11,
+    "text": "Cenários (1)\n\nNo início da partida, embaralhe as cartas de cenário e compre uma delas. Em seguida, ative todos os decretos reais contidos no cenário sorteado.\n\nSede de sangue:\nBrigas de bar, Terceirizados, Caçadores de Monstros, Memorial de Batalha.\n\nA vidente:\nEmbaralhe e sorteie 3 decretos reais."
+  },
+  {
+    "page": 12,
+    "text": "Cenários (2)\n\nControle caótico:\nBalonistas, Acordo.\n\nO cerco:\nFortaleza, Memorial de Batalha, Latifundiários Gananciosos.\n\nEvangelho do Machado:\nTurno de trabalho, Mercadores, Latifundiários Gananciosos."
+  }
+]

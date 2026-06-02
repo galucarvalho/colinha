@@ -1,0 +1,22 @@
+[
+  {
+    "page": 1,
+    "section": "Satellites & Super Weapons",
+    "content": "SATELLITES & SUPER WEAPONS\nMini Expansão\npor Scott Almes\n\nJustamente quando o universo não poderia ter nenhum estranho, as Super Armas começaram a aparecer. Ninguém sabe de onde as relíquias celestiais vieram ou quem as construiu, mas esses monólitos do tamanho de um planeta podem ser uma maldição ou uma bênção para o seu império. Mande satélites de sua galáxia que podem explorar a tecnologia incrível das armas! Ou use sua influência para lançar um ataque, enviando essas abominações de volta ao vazio do espaço!\n\nConteúdo:\n• 6 Cartas de Super Armas\n• 15 Satélites"
+  },
+  {
+    "page": 2,
+    "section": "Preparação / Satélites",
+    "content": "PREPARAÇÃO\nEmbaralhe as cartas de Super Armas e coloque de face para baixo, numa pilha próxima as cartas de planetas. Antes do início do jogo, depois de virar as cartas de planeta no centro da mesa, coloque de face para cima a carta do topo da pilha de Super Armas.\nDepois, os jogadores colocam 3 satélites no seu painel galáctico em cima da trilha de dados nos números que estão circulados (5, 6 e 7).\n\nSATÉLITES\nQuando um jogador aprimora o seu império para o nível onde o satélite está, o jogador coloca o satélite imediatamente em um planeta que não foi colonizado. O satélite fica no planeta até ele ser colonizado. Quando um jogador coloniza um planeta com satélite, a regra normal é aplicada e o jogador põe o Satélite na sua Ficha de Galáxia."
+  },
+  {
+    "page": 3,
+    "section": "Satélites / Super Armas",
+    "content": "No fim do jogo cada satélite que estiver na sua Ficha de Galáxia (não contando com os da trilha de dados) vale 1 Pontos de satélites não contam para o anúncio do fim do jogo.\n\nSUPER ARMAS\nOs jogadores podem fazer duas ações com elas:\n\n• Usar o seu poder:\nO jogador deve adicionar um dos seus satélites adquiridos para a superfície da Super Arma. Isto é feito a qualquer momento durante a vez do jogador, ele não executa uma ação para isso.\nOs jogadores não podem usar o poder da Super Arma aterrissando na superfície dela."
+  },
+  {
+    "page": 4,
+    "section": "Destruir Super Arma",
+    "content": "• Destruí-la:\nA Super Arma pode ser destruída para adquirir 2. Igual a trilha de colonização, use a ação de para colocar uma nave na trilha de destruição da Super Arma. Então, com ação de ou a nave irá avançar ao longo da trilha. Quando chegar ao final da trilha, a Super Arma é destruída!\n\nO jogador vira a carta de lado e a coloca embaixo de sua Ficha de Galáxia, perto da sessão de colônias, logo depois, o jogador anuncia o seu total de pontos.\n\nDepois de destruir a Super Arma, o jogador adquire 1 para cada satélite na superfície da arma. Os satélites são removidos do jogo e outra carta de Super Arma é revelada."
+  }
+]
