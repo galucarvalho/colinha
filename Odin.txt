@@ -1,0 +1,50 @@
+[
+  {
+    "page": 1,
+    "text": "REGRAS\nUm jogo por\nGary Kim, Hope S. Hwang e Yohan Goh\nIlustrado por Crocotame"
+  },
+  {
+    "page": 2,
+    "text": "COMPONENTES\n54 Cartas Numeradas de 1 a 9 em 6 \ncores\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n1\n1\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n4\n4\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ7\n7\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n2\n2\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n5\n5\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n8\n8\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n3\n3\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ\n6\n6\nᛯ\nᛯ9\n9\nᛟ\nᛟ9\n9\nᛠ\nᛠ9\n9\nᛤ\nᛤ9\n9\nᛔ\nᛔ9\n9\nᚱ\nᚱ9\n9\nCurandeiro\nSábio\nGuerreiro\nBardo\nVidente\nCapitão\nEspião\nGuarda\nNobre"
+  },
+  {
+    "page": 3,
+    "text": "OBJETIVO\nSer o primeiro jogador a descartar \ntodas as cartas da mão e ter menos \npontos ao final da partida.\nPREPARAÇÃO\n1. Embaralhe todas as cartas.\n2. Distribua 9 cartas viradas para \nbaixo para cada jogador. Esta será \nsua mão. Você pode olhar suas \ncartas, mas não mostre aos outros \njogadores!\nEscolha, \naleatoriamente, \num jogador para \ncomeçar a partida.\nO jogo prosseguirá\nno sentido horário."
+  },
+  {
+    "page": 4,
+    "text": "VARIANTE PARA\n2 JOGADORES\nPara dois jogadores, antes de \nembaralhar as cartas, recomendamos \nremover duas cores de cartas para \ndeixar o jogo mais rápido e intenso!\nCOMO JOGAR\nUma partida é jogada ao longo de \nvárias mãos. Cada mão é dividida \nem rodadas.\nNo começo de uma rodada, se você \nfor o primeiro jogador, jogue apenas \numa das suas cartas, virada para \ncima, no centro da mesa."
+  },
+  {
+    "page": 5,
+    "text": "Os jogadores, então, revezam-se \npara:\n1) Jogar uma ou mais cartas, ou\n2) Passar\n1) Jogar uma ou mais cartas\nO valor da carta individual ou o valor \ncriado pelas cartas que você jogar \ndeve ser maior do que o valor das \ncartas que já estão no centro da \nmesa.\nExemplo: se o valor no centro da \nmesa for 3, você deve jogar um \nvalor 4 ou maior.\nVocê só pode jogar a mesma \nquantidade de cartas que já está no"
+  },
+  {
+    "page": 6,
+    "text": "centro da mesa ou esta quantidade \nmais 1.\nExemplo: se já houver um \nconjunto de duas cartas, você \npode jogar um conjunto de duas \ncartas maior ou um conjunto de \ntrês cartas. Por outro lado, você \nnão pode jogar um conjunto de \nquatro cartas. Você também não \npode jogar apenas uma carta.\nSe quiser jogar múltiplas cartas, elas \ndevem ser do mesmo número ou da \nmesma cor.\nSe jogar múltiplas cartas, calcule \nseu valor usando o número de cada \ncarta como um algarismo para criar \no número de maior valor possível."
+  },
+  {
+    "page": 7,
+    "text": "Exemplo: se você jogar 2 e 8 da \nmesma cor, o valor do conjunto \nserá 82 (não 28). Se jogar 2, 9 e 4 – \ntambém da mesma cor – o valor do \nconjunto será 942.\nExemplo: se você \njogar duas cartas 5, \nde cores diferentes, \no valor será 55.\nᛯ\nᛯ9\n9\nᛯ\nᛯ\n4\n4\nᛯ\nᛯ\n2\n2\nᛯ\nᛯ\n2\n2\nᛯ\nᛯ\n4\n4\nᛯ\nᛯ9\n9\nᛤ\nᛤ\n5\n5\nᚱ\nᚱ\n5\n5"
+  },
+  {
+    "page": 8,
+    "text": "Quando tiver jogado uma ou mais \ncartas, você deve pegar uma carta \ndo centro da mesa dentre aquelas \ndo jogo anterior ao seu, portanto:\n· Se só houver uma \ncarta, você deve \npegá-la.\n· Se houver um \nconjunto de cartas, \nescolha uma \ncarta e descarte \no restante do \nconjunto em uma \npilha de descarte."
+  },
+  {
+    "page": 9,
+    "text": "2) Passar\nSe você não puder ou não quiser \njogar cartas, você pode passar. O \njogador à sua esquerda, em sentido \nhorário, agora recebe a vez.\nNota: se você passar, ainda estará \nparticipando da rodada e poderá jogar \nnormalmente na sua próxima vez.\nSe todos os jogadores passarem em \nsequência, retornando a vez para \no jogador que baixou o jogo que \nestá atualmente na mesa, a rodada \ntermina. Mantenha as cartas que \nvocê possui em sua mão e descarte \nas cartas presentes no centro de \nmesa. O jogador que baixou o \njogo que acaba de ser descartado \né quem inicia a próxima rodada, \njogando uma única carta."
+  },
+  {
+    "page": 10,
+    "text": "FINAL DE UMA MÃO\nUma mão pode acabar de duas \nmaneiras:\n1. Se você iniciar uma nova rodada \ne todas as cartas em sua mão \nforem do mesmo número ou da \nmesma cor, você pode jogá-las \ntodas juntas. A mão encerra-se \nimediatamente.\n2. Se, a qualquer momento da \npartida, você jogar uma ou mais \ncartas e sua mão ficar vazia, \nnão pegue uma carta do centro \nda mesa. A mão encerra-se \nimediatamente.\nAo final de uma mão, cada jogador \nrecebe 1 ponto para cada carta restante \nna mão dele, independente do valor \nda mesma. Anote seus pontos. Em \nOdin, receber pontos é ruim!"
+  },
+  {
+    "page": 11,
+    "text": "Para iniciar uma nova mão, reúna \ntodas as cartas e embaralhe-as. \nDistribua 9 cartas para cada jogador \nnovamente. O jogador inicial da \nnova mão é o jogador à esquerda \ndo jogador inicial da mão que se \nencerrou.\nFIM DE JOGO\nSe esta é sua primeira partida de \nOdin, recomendamos jogar até \n15 pontos. Assim, uma vez que \nalgum jogador tenha alcançado 15 \npontos ou mais, a partida termina. O \njogador com menos pontos vence! \nEm caso de empate, os jogadores \nempatados dividem a vitória.\nApós sua primeira partida, você \npode escolher a quantidade de \npontos até quanto quer jogar. Para"
+  },
+  {
+    "page": 12,
+    "text": "partidas longas, você pode jogar \naté 20. Para partidas curtas, até \n10. Para partidas realmente curtas, \njogue apenas uma mão!\nCRÉDITOS\nTradução: Gabriel C. Schweitzer\nRevisão: Eduardo Cella, Gustavo Lopes, \nLucas Andrade e Romir G. E. Paulino\nEdição e Produção: Eduardo Cella\nDiagramação: Gil Martimiano\nVersão Original\n© 2024 Helvetiq SA. Avenue des \nAcacias 7, CH-1006 Lausanne, \nSuíça - www.helvetiq.com\nVersão Brasileira\n© 2025 PaperGames.\nTodos os direitos reservados.\nPara mais jogos, informações adicionais, \nmanuais ou suporte, visite nosso site:\nwww.papergames.com.br\nNenhuma parte deste produto pode ser reproduzida \nsem permissão prévia. Regras v1.0 – edição brasileira"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "page": 1,
+    "text": "U\nM \nJO\nG\nO \nEL\nET\nRI\nZA\nNT\nE \nDE\n R\nEF\nLE\nX\nOS\n R\nÁ\nPI\nD\nO\nS \n- 2\n \nA \n8 \nJO\nG\nA\nD\nO\nR\nES\n -\n A\n P\nAR\nTI\nR \nD\nE \n6 \nA\nNO\nS\nRegras do jogo"
+  },
+  {
+    "page": 2,
+    "text": "O que é Dobble?\nDobble contém mais de 50 símbolos, 55 cartas, \n8 símbolos por carta e sempre um único símbolo em \ncomum entre cada carta - e cabe a você descobrir qual é.\nAntes de começar...\nSe você nunca jogou ou se está jogando com pessoas que nunca \njogaram Dobble antes, compre duas cartas quaisquer e coloque‑as \ncom as faces viradas para cima no centro da mesa. Tente encontrar o \nsímbolo em comum entre as duas cartas (mesma forma, mesma cor; \nsó o tamanho pode ser diferente). O primeiro jogador que encontrar \no símbolo em comum diz o nome do símbolo,  compra duas novas \ncartas e as coloca sobre a mesa com as faces para cima. \nRepita este processo até que todos os jogadores \ncompreendam que sempre há apenas um\núnico símbolo em comum entre \nduas cartas."
+  },
+  {
+    "page": 3,
+    "text": "Muito bem! Você \nestá pronto para jogar Dobble!\nObjetivo do jogo\nSeja qual for o minijogo, você precisa ser sempre \no jogador mais rápido a identificar o símbolo em \ncomum entre duas cartas, dizer o nome do símbolo \nem voz alta e pegar, colocar ou descartar uma carta (de \nacordo com as regras do minijogo que você está jogando).\nOs minijogos\nDobble é formado por uma coleção de minijogos de velocidade, nos quais \ntodos os jogadores  jogam ao mesmo tempo. Você pode jogar todos os \nminijogos em uma ordem específica, fora de ordem ou jogar o mesmo \njogo quantas vezes quiser. O importante é se divertir! Leia a regra \ndo minijogo que foi escolhido (ou escolha um minijogo de forma \naleatória) para todos os jogadores antes de começar \na jogar. Se preferir, jogue uma rodada para \npraticar e garantir que todos tenham  \ncompreendido as regras."
+  },
+  {
+    "page": 4,
+    "text": "Fim da partida\nO jogador que venceu mais \nminijogos é o vencedor da partida. Para os \napaixonados por competição, veja o sistema de \npontos para torneios sugerido no fim das regras.\nEm caso de dúvida\nO primeiro jogador que tiver dito o nome do símbolo é o vencedor! Se \nmais de um jogador tiver falado o nome do símbolo ao mesmo tempo, o \nvencedor é aquele que foi o primeiro a pegar, colocar ou descartar sua carta.\nEmpates\nNo fim da partida de um minijogo, os jogadores que estão empatados \ndisputam um duelo (ou jogam uma  rodada de «batata quente» \ncaso haja mais de dois jogadores empatados). Cada jogador \ncompra uma carta e a coloca ao mesmo tempo sobre a \nmesa com a face para cima. O primeiro jogador que \nencontrar o símbolo em comum e falar o \nnome do símbolo vence o duelo."
+  },
+  {
+    "page": 5,
+    "text": "Ponto\nde exclamação\nFloco de neve, \nneve, cristal de\nneve...\nCaveira,\npirata...\nPalhaço, Bozo...\nClave de sol, \nmúsica...\nGato, miau, \ngatinho... \nAlvo, mira...\nT-Rex, \ndinossauro...\nManchas,\nrespingos,\npaintball...\nDragão\nDobble\nLâmpada, luz...\nBoneco\nde neve\nYin e Yang,\nZen...\nCoração, amor,\npaixão...\nGelo, cubo\nde gelo, cubo\ngelatinoso...\nHomem\nLaranja\nBoca, lábios,\nbeijo, amor...\nFantasma,\nespírito...\nPeão, \ncavalo,\ncorcel…\nFolha de bordo,\nfolha vermelha,\nCanadá...\nRaio, \nrelâmpago,\ntrovão...\nSistema de pontos para torneios\nComece pela «torre do caos», o perdedor escolhe o próximo minijogo.\nA torre do caos: +1 ponto por carta ganha / +5 pontos \npara o jogador que ganhou mais cartas\nO poço: +10 pontos  para o primeiro jogador que se livrar de \ntodas as suas cartas / -20 pontos para o último\nPresente de grego: +20 pontos para o jogador que ganhou \nmenos cartas / +10 pontos para o segundo\nBatata quente:  -5 pontos por rodada perdida\nTemos que pegar: +1 ponto por carta ganha\nExemplos de símbolos"
+  },
+  {
+    "page": 6,
+    "text": "A torre do caos\n1) Preparação: Embaralhe as cartas, \ncoloque uma delas com a face virada para baixo na \nfrente de cada jogador e forme uma pilha de compras \ncom as cartas que restarem. Esta pilha deve ser colocada \nno centro da área de jogo com a face virada para cima.\n2) Objetivo: Ser o jogador a ganhar mais\ncartas da pilha de compras no fim do jogo.\nPosição inicial:\nexemplo para 3 jogadores\nM\nI\nN\nI\nJ\nO\nG\nO\n \n1"
+  },
+  {
+    "page": 7,
+    "text": "3) Como jogar?\nO jogo começa com cada \njogador virando sua carta e deixando-a \ncom a face para cima. Os jogadores devem  \nidentificar o mais rápido possível o \nsímbolo em comum entre sua carta e \na primeira carta da pilha de compras. \nO primeiro jogador que identificar o símbolo \ndiz o nome do símbolo, pega a carta da pilha \nde compras e a coloca à sua frente, em cima da \ncarta inicial. Quando uma carta da pilha \nde compras é retirada, uma nova \ncarta é revelada. O jogo continua \naté que todas as cartas da pilha \nde descarte sejam compradas. \n4) O vencedor: O jogo termina quando todas as cartas \nda pilha de descarte são compradas. Vence o jogador \nque comprou mais cartas."
+  },
+  {
+    "page": 8,
+    "text": "O poço\n1) Preparação: Distribua todas as cartas \naos jogadores, uma por vez, começando pelo jogador \nque ganhou o último minijogo. Coloque a última carta no \ncentro da área de jogo com a face virada para cima. Cada \njogador embaralha suas próprias cartas, forma uma pilha de \ncompras e a coloca à sua frente com a face virada para baixo.\n2) Objetivo: Ser o primeiro a livrar-se \nde todas as suas cartas - só não seja o último!\nPosição inicial:\nexemplo para 3 jogadores\nM\nI\nN\nI\nJ\nO\nG\nO\n \n2"
+  },
+  {
+    "page": 9,
+    "text": "3) Como jogar?\nO jogo começa com os jogadores virando sua pilha de compras para ficar \ncom a face para cima. Cada jogador deve  descartar as cartas de sua \npilha de compras o mais rápido possível, colocando‑as sobre a \ncarta que está no centro da área de jogo. Para isso, eles precisam \ndizer o nome do símbolo em comum entre a carta do topo de sua pilha \nde compras e a carta que está no centro. Os jogadores precisam \nser rápidos, pois a carta que está no centro muda assim \nque um jogador coloca uma de suas cartas sobre ela.\n4) O perdedor:\nO último jogador a livrar-se de suas \ncartas perde o jogo."
+  },
+  {
+    "page": 10,
+    "text": "Batata quente\n(jogado em várias rodadas)\n1) Preparação: Em cada rodada, distribua uma \ncarta para cada jogador. Os jogadores devem esconder a \ncarta na mão sem olhar seu conteúdo. Deixe as cartas que \nrestarem de lado. Elas serão usadas nas rodadas seguintes.\n2) Objetivo: Livrar-se da sua carta\no mais rápido possível.\nPosição inicial:\nexemplo para 4 jogadores\nM\nI\nN\nI\nJ\nO\nG\nO\n \n3"
+  },
+  {
+    "page": 11,
+    "text": "3) Como jogar?\nO jogo começa com os jogadores \nrevelando suas cartas de modo que os \nsímbolos possam ser vistos por todos (recomenda-\nse segurar a carta sobre a palma da mão, como mostra a \nfigura). Assim que um jogador encontrar \no símbolo em comum entre sua carta e \na carta de um adversário, ele deverá \ndizer o nome do símbolo e colocar sua \ncarta sobre a carta do adversário \nque, por sua vez, deverá encontrar um \nsímbolo em comum entre sua nova \ncarta e as cartas dos demais jogadores. \nSe conseguir, ele entregará todas as suas \ncartas de uma só vez ao outro jogador.\n4) O perdedor: O último jogador (aquele \nque ficar com todas as cartas sobre a mão) perde a rodada e \ncoloca as cartas sobre a mesa. Os jogadores iniciam quantas \nrodadas quiserem (mínimo de 5 rodadas). Quando não há \nmais cartas para distribuir, o  minijogo termina. \nO perdedor é aquele que ficou \ncom mais cartas."
+  },
+  {
+    "page": 12,
+    "text": "Temos que pegar!\n(jogado em várias rodadas)\n1) Preparação: Em cada rodada, coloque \numa carta com a face virada para cima no centro \nda área de jogo e coloque ao redor desta carta uma \nquantidade de cartas igual à quantidade de jogadores, com \nas faces viradas para baixo. Deixe as cartas que restarem \nde lado. Elas serão usadas nas rodadas seguintes.\n2) Objetivo: Conseguir mais cartas o mais rápido possível.\nPosição inicial:\nexemplo para \n4 jogadores\nM\nI\nN\nI\nJ\nO\nG\nO\n \n4"
+  },
+  {
+    "page": 13,
+    "text": "3) Como jogar?\nO jogo começa com cada \njogador virando, ao mesmo tempo, uma \ndas cartas que estão ao redor da carta central. \nOs jogadores devem encontrar  o símbolo em comum \nentre a carta que está no centro da área de jogo \ne as cartas que acabaram de revelar. Assim que um \njogador identifica um símbolo em comum, \nele diz o nome do símbolo, recebe a carta \ncorrespondente e a deixa por perto \n(atenção: nunca retire a carta central).\n4) O vencedor:\nAssim que todas as cartas reveladas \nsão recebidas, os jogadores colocam \na carta que está no centro debaixo \nda pilha de compras e iniciam uma \nnova rodada. Os jogadores ficam com \nas cartas que ganharam. Quando não \nhouver mais cartas para comprar, o \nminijogo termina. O jogador que \nconseguiu ganhar mais cartas \né o vencedor!"
+  },
+  {
+    "page": 14,
+    "text": "Presente de grego\n1) Preparação: Embaralhe as cartas, \ncoloque uma delas com a face virada para baixo na \nfrente de cada jogador e forme uma pilha de compras \ncom as cartas que restarem. Esta pilha deve ser colocada \nno centro da área de jogo com a face virada para cima.\n2) Objetivo: Ser o jogador a ganhar menos \ncartas da pilha de compras no fim do jogo.\nPosição inicial:\nexemplo para \n4 jogadores\nM\nI\nN\nI\nJ\nO\nG\nO\n \n5"
+  },
+  {
+    "page": 15,
+    "text": "3) Como jogar?\nO jogo começa com os jogadores \nvirando sua carta, deixando-a com a face \npara cima. Cada jogador deve  identificar o \nsímbolo em comum entre a carta de qualquer \noutro jogador e a carta da pilha de compras. O \nprimeiro jogador que encontrar um símbolo em comum diz o nome \ndo símbolo, compra a carta do centro \ne a coloca sobre a carta do jogador \ncorrespondente. Quando a carta do \ncentro é comprada, uma nova carta \né revelada. O minijogo continua \naté que todas as cartas da \npilha de compras sejam \nrecebidas pelos jogadores.\n4) O vencedor:\nO minijogo termina \nquando todas as cartas \nda pilha de compras forem \nrecebidas pelos jogadores. \nVence o jogador que \ntem menos cartas."
+  },
+  {
+    "page": 16,
+    "text": "20\n15\n-1/\nD\nO\nB\nB0\n1\nBR\n/AD\nB0\n01\nCréditos\nJogo publicado sob a licença de\nDivertis Properties Group.\nCriadores:\nJean-François Andreani - Toussaint Benedetti\nUm Jogo criado e desenvolvido por Play Factory\nVocê pode baixar e jogar Dobble em seu iPhone©, \niPod touch© e iPad© ! As versões para Android© \ne Facebook© estarão disponíveis em breve!\nPublicado por Asmodee.\nDistribuído no Brasil\npor Galápagos Jogos."
+  }
+]

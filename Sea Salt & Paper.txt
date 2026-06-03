@@ -1,0 +1,50 @@
+[
+  {
+    "page": 1,
+    "text": "71 q EN\ndo A MR pi\nAA AP An\nik ‘ - -_ 3\nay ie \" sd\n<= Sip E\nFR AS il"
+  },
+  {
+    "page": 2,
+    "text": "2\nCOMPONENTES\n58 cartas, 6 ajudas de jogo e 1 livro de regras\nPREPARAÇÃO DO JOGO\n1. Deixe as ajudas de jogo à mão de todos os jogadores.\n2. Embaralhe as cartas viradas para baixo e forme um\nbaralho, ao alcance dos jogadores.\n3. Revele as duas primeiras cartas e coloque-as viradas\npara cima próximo ao baralho formando duas pilhas\nde descarte.\n4. Escolha aleatoriamente o primeiro jogador.\nOBJETIVO DO JOGO\nO jogo é composto de diversas rodadas, até que um dos\njogadores alcance o número de pontos necessários para a\nvitória (veja Fim do Jogo). Para marcar pontos, você deve\nescolher cuidadosamente as cartas que você pega, e usar\nos efeitos delas sabiamente. Pegar os seus oponentes\ndesprevenidos também pode ser uma boa estratégia.\nTURNO DE JOGO\nOs jogadores realizam os turnos em sentido horário.\nDurante um turno, um jogador realiza as seguintes eta-\npas:\n1. Ele deve adicionar uma carta à mão em uma de\nduas formas:\n OU ele pega as duas primeiras cartas do baralho,\nadiciona uma à mão e descarta a segunda, virada para\ncima, em uma das pilhas de descarte à escolha dele (se\numa das pilhas de descarte estiver vazia, ele não terá\nescolha - deverá colocar a carta nela);\n OU ele pega a carta do topo de uma das duas pilhas\nde descarte."
+  },
+  {
+    "page": 3,
+    "text": "3\nImportante: O jogador não pode consultar as pilhas\nde descarte.\n2. Cartas duplas podem ser jogadas\nAs cartas duplas podem ser jogadas em pares para ati-\nvar os efeitos delas (veja Detalhes das Cartas). Para\nisso, o jogador as baixa viradas para cima à frente dele e\naplica o efeito. Um jogador pode ativar mais de um efeito\ndurante o próprio turno.\n3. A rodada pode ser terminada\n\u0007Se o jogador atingir 7 pontos ou mais ao con-\ntar os pontos nas cartas dele, tanto as em\nmãos quanto as à frente dele (veja Detalhes\ndas Cartas), ele pode decidir terminar a ro-\ndada.\nSe não, é a vez do jogador à esquerda dele.\nFINAL DA RODADA\nQuando um jogador ativa o final da rodada, ele deve revelar\nas cartas da mão e anunciar PARE ou ÚLTIMA CHANCE.\n Ele diz PARE se não quer correr riscos. Todos os jo-\ngadores revelam as mãos e imediatamente pontuam\nos pontos das cartas deles (em mãos e à frente deles).\n Ele diz ÚLTIMA CHANCE se estiver disposto a apos-\ntar que possui a maior pontuação ao final da rodada.\nOs outros jogadores realizam um último turno cada\n(pegam cartas e jogam cartas), no qual eles terminam\nrevelando as cartas da mão, que agora estão protegidas\nde ataques. Então, todos os jogadores contam os pontos\ndas próprias cartas (em mãos e à frente deles)."
+  },
+  {
+    "page": 4,
+    "text": "4\n Se os pontos do jogador que ativou o final da rodada\nforem maiores ou iguais aos pontos de seus oponentes,\naposta ganha! Ele pontua os pontos das cartas dele\n+ o bônus da cor (1 ponto para cada carta da cor que\nele possuir a maioria). Os oponentes pontuam somente\no bônus da cor.\n Se sua pontuação for menor do que a pontuação de\npelo menos um de seus oponentes, aposta perdida!\nEle pontua somente o bônus da cor. Os oponentes\npontuam os pontos das próprias cartas.\nCaso especial: Se o baralho estiver vazio ao final do\nturno de um jogador, a rodada acaba imediatamente\nsem pontuação.\nOs pontos da rodada são somados aos pontos das ro-\ndadas anteriores. Se ninguém tiver alcançado ou su-\nperado o número de pontos necessários para a vitória,\numa nova rodada começa: Todas as cartas são emba-\nralhadas, e o baralho e as pilhas de descarte são criadas\nnovamente. O jogador à esquerda daquele que terminou\na rodada anterior começa a nova rodada.\nFIM DE JOGO\nSe um jogador baixar as 4 sereias, ele imediatamente\nvence o jogo. Caso contrário, o jogo termina assim que\num dos jogadores alcançar ou superar os pontos de\nvitória necessários:\n 2 / 3 / 4 jogadores: 40 / 35 / 30 pontos\nO jogador que tiver mais pontos vence o jogo. Em caso\nde empate, o jogador que ganhou mais pontos na última\nrodada vence."
+  },
+  {
+    "page": 5,
+    "text": "5\nJOGADOR 1 = 7 pontos\n1 pt.\nx 8\nx 8\nx 8\n6 pts.\nx 5\nx 5\nx 5"
+  },
+  {
+    "page": 6,
+    "text": "6\nJOGADOR 2 = 4 pontos\n1 pt.\nx 7\nx 7\n2 pts.\nx 6\nx 6\n1 pt.\nx 8\nx 8\nx 8\nx 8\n Se o jogador 1 disser PARE, os dois jogadores\npontuam os próprios pontos.\n Se o jogador 1 disser ÚLTIMA CHANCE, o jogador\n1 pontua os próprios pontos + 2 pontos adicionais\npelo bônus da cor (amarelo) = 9 pontos.\nO jogador 2 realiza um último turno e pontua\nsomente o bônus da cor (azul claro) = 2 pontos."
+  },
+  {
+    "page": 7,
+    "text": "7\nDETALHES DAS CARTAS\nImportante: Quando é mencionado que um jogador\npontua ou conta os pontos das cartas dele, isso significa\ntanto aquelas na mão quanto as abertas à frente dele.\nCartas Duplas\n1 ponto para cada par de\ncartas de caranguejo.\nEfeito: O jogador escolhe uma\npilha de descarte, a consulta sem\nembaralhar, e escolhe uma carta\ndela para adicionar à mão. Ele não\nprecisa mostrar a carta escolhida\npara os outros jogadores.\n1 ponto para cada par de\ncartas de barco.\nEfeito: O jogador realiza um outro\nturno imediatamente.\n1 ponto para cada par de\ncartas de peixe.\nEfeito: O jogador adiciona a carta do\ntopo do baralho de compras à mão."
+  },
+  {
+    "page": 8,
+    "text": "8\n1 ponto para cada\ncombinação de\ncartas de nadador\ne de tubarão.\nEfeito: O jogador rouba uma carta aleatória da\nmão de outro jogador e a adiciona à mão.\nObservação: Os pontos das cartas duplas contam se\nelas tiverem sido jogadas ou não. Entretanto, o efeito é\nsomente aplicado quando o jogador as baixa à frente dele.\nCartas de Sereia\n1 ponto por cada carta da\ncor que o jogador possuir a\nmaior quantidade. Se ele tiver mais\ncartas de sereia, ele deve verificar\nquais das outras cores ele possui a\nmaior quantidade. A mesma cor não\npode ser contada para mais de uma\ncarta de sereia.\nEfeito: Se o jogador baixar 4\ncartas de sereia, ele vence o jogo\nimediatamente.\n\nObservação: Sereias são consideradas cartas brancas."
+  },
+  {
+    "page": 9,
+    "text": "9\nCom duas sereias, o jogador marca 7 pontos:\n 4 pontos pela maior cor, azul claro.\n 3 pontos pela segunda maior cor, verde.\nx 7\nx 8\nx 8\nx 7\nx 9\nx 6\nx 6\nx 7\n3 pts.\nx 4\n4 pts.\nx 4"
+  },
+  {
+    "page": 10,
+    "text": "10\nCartas Colecionáveis\nSe o jogador tiver 1, 2, 3, 4, 5, ou 6\ncartas de concha ele ganha, respectiva-\nmente, 0, 2, 4, 6, 8, ou 10 pontos.\nSe o jogador tiver 1, 2, 3, 4, ou 5\ncartas de polvo ele ganha, respectiva-\nmente, 0, 3, 6, 9, ou 12 pontos.\nSe o jogador tiver 1, 2 ou 3 cartas\nde pinguim ele ganha, respectiva-\nmente, 1, 3 ou 5 pontos.\nSe o jogador tiver 1 ou 2 cartas\nde marinheiro ele ganha,\nrespectivamente, 0 ou 5 pontos.\n5 pts.\nx 3\nx 3\nx 3"
+  },
+  {
+    "page": 11,
+    "text": "11\nCartas Multiplicadoras de Pontos\nO farol\n1 ponto para cada carta de barco.\nEsta carta não conta como uma carta de\nbarco.\nO cardume\n1 ponto para cada carta de peixe.\nEsta carta não conta como uma carta\nde peixe.\nA colônia de pinguins\n2 pontos para cada carta de pinguim.\nEsta carta não conta como uma carta de\npinguim.\nO capitão\n3 pontos para cada carta de marinheiro.\nEsta carta não conta como uma carta de\nmarinheiro.\n\nObservação: O número de elementos representados\nna imagem pode variar. Isso não tem nenhum efeito\nno jogo."
+  },
+  {
+    "page": 12,
+    "text": "12\n5 pts.\nx 3\nx 3\nx 3\n+6 pts.\nx 1\nCRÉDITOS\nDesigners do Jogo: Bruno Cathala & Théo Rivière\nFotógrafo: Pierre-Yves Gallard\nCriação e produção do origami: Lucien Derainne &\nPierre-Yves Gallard, com a permissão de Tomoko Fuse\npelo uso dos modelos de Solid Shell, Navel Shell e\nSpirals.\nColorADD é uma linguagem universal, inclusiva e não\ndiscriminativa que possibilita que daltônicos identifi-\nquem cores. Utilizada por Bombyx sob licença.\nGALÁPAGOS\nGestão de Produto: Matheus Passeri\nTradução: Maurício Torselli\nRevisão: Gabriel Novaes e Felipe Ramos\nDiagramação: Felipe Godinho e Tati Hapanchuk\nwww.mundogalapagos.com.br\n                v1.0"
+  }
+]

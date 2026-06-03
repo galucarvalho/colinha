@@ -1,0 +1,38 @@
+[
+  {
+    "page": 1,
+    "text": "Author · Jérémy Partinico\nAuthor · Christelle Partinico\nIllustrator · Baptiste Perez\nGraphic Designer · Ange Hubert\nRules editor · Paul Verniolle\nPublisher · Yoann Brogol \n2 - 4 jogadores\n15 minutos \n8+ anos"
+  },
+  {
+    "page": 2,
+    "text": "CoMpoNentes\nOBJETIVO DO JOGO\nAnatomia da carta\n36 cartas\n1 folha de\npontuação\nOs Pontos \nna parte inferior\nO Animal \nA Estação\n \n2\n3\nEm SYMBIOSE, cada pessoa coleta oito\ncartas à sua frente para construir o seu\nLago.\nO objetivo do jogo é ter o lago com o maior\nnúmero de pontos.\nAo fundo"
+  },
+  {
+    "page": 3,
+    "text": "4\nPREPARAÇÃO\n1\n \n4\n2\n3\nDistribua oito cartas viradas para\nbaixo para cada pessoa para\nformar os Lagos.\nColoque quatro cartas viradas\npara cima no centro da mesa\npara formar o Rio.\nCada pessoa simultaneamente\nrevela uma carta do seu\nLago, colocando-a virada para\ncima.\nDeterminando a ordem de jogo:\nA última pessoa a ter visto um\nsapo começa, depois o jogo  \nprossegue na ordem de turnos,\nno sentido horário.\n2\n3\n1\n3\n3"
+  },
+  {
+    "page": 4,
+    "text": "1. Pegue uma carta do rio.  A\n2. Escolha uma carta do seu lago.    B \n3. Troque a carta do seu lago  B\ncom a carta retirada do rio. A \n4. Deixe a carta  A  virada para cima no seu\nlago.\n5. Coloque a carta  B  virada para cima no rio.\nAtenção, se a carta escolhida do seu\nLago  B  já estava virada para cima, revele\noutra de suas cartas também.  C\nAo final do seu turno, você sempre terá uma\nnova carta virada para cima em seu lago.\n6\nturnos do jogo\na\nB\nC"
+  },
+  {
+    "page": 5,
+    "text": "PONTUAÇÃO\n \nCada uma das suas cartas acumula pontos\nvariáveis ​ ou fixos.\nSe esses pontos forem variáveis ​ de acordo\ncom um Animal ou uma Estação, sua carta\npontua de acordo com sua posição em seu\nLago:\n• Na sua coluna da esquerda, a pontuação\né relativa a todo o lago da esquerda.\n• Nas suas duas colunas centrais, a\npontuação é calculada em relação a todo o\nseu lago.\n• Na sua coluna da direita, a pontuação é em\nrelação a todo o lago da direita.\nSe esses pontos forem fixos, a carta lhe\nrenderá \nos \npontos \nindicados,\nindependentemente de sua posição.\nExemplo\nno jogo\n8\n3 pontos por\nno seu Lago\n5 pontos fixos \n= 6 pontos\n= 5 pontos\n2 pontos por \nno lago à \nesquerda \n= 4 pontos"
+  },
+  {
+    "page": 6,
+    "text": "Fim dE jogo\n10\n8 4 8 8 42\n5\nKermìt \nO jogo termina quando todos os\njogadores tiverem oito cartas viradas\npara cima em seus respectivos lagos.\nConte os pontos marcados por cada\numa das suas cartas, anotando-os na\nfolha de pontuação.\nSome os pontos de todas as suas\ncartas. Quem tiver a maior pontuação\nvence o jogo.\nEm caso de empate, a vitória é\ncompartilhada. \nVocês \nviveram \nem\nperfeita simbiose, parabéns!\n0 9 0"
+  },
+  {
+    "page": 7,
+    "text": "No Modo Duelo, você jogará com um Rio\nde oito cartas.\nDurante a preparação, adicione \nquatro cartas viradas para baixo ao \nRio, além das quatro cartas viradas para\ncima.\nNa sua vez, você pode escolher qualquer\numa das oito cartas no Rio. Se escolher\numa carta virada para baixo, lembre-se de\ncolocar a carta substituída virada para\ncima.\nAo \nfinal \ndo \njogo, \nse \nalguma \ncarta\npermanecer virada para baixo no Rio, vire-a\npara cima.\nNa contagem de pontos, suas duas cartas\nno lado do Rio pontuam em relação às oito\ncartas no Rio.\nSeu Lago\nmodo duelo\n12\n13\nLago do oponente \nO Rio\n1 vs 1"
+  },
+  {
+    "page": 8,
+    "text": "14\nModo de equipe\nNo Modo Equipe, você jogará\ncooperativamente com a pessoa \nsentada à sua frente.\nA configuração e a jogabilidade são\nfeitas da mesma forma que no \nmodo normal.\nA diferença está na pontuação:\nSuas cartas laterais pontuam em relação às\noito cartas da pessoa à sua frente, com\nquem você está formando equipe.\nAo final da partida, some os pontos de\nambos os jogadores da sua equipe. A equipe\ncom a maior pontuação vence a partida.\n2 vs 2"
+  },
+  {
+    "page": 9,
+    "text": "Change the world while having fun"
+  }
+]
