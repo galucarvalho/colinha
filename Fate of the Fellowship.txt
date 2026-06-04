@@ -1,0 +1,98 @@
+[
+  {
+    "page": 1,
+    "text": "=\n\nq\n\nY\n\nfe dd\n\nent BNA\n\nmote cu"
+  },
+  {
+    "page": 2,
+    "text": "RESUMO\n\nSUMARIO E\n\ncoprontiis\n\nlabia,\n\nBosh @\n\nhe ES\n\nia\n\nii\n\n“4"
+  },
+  {
+    "page": 3,
+    "text": "ELEMENTOS DO TABULEIRO.\n\n{a\n\ntr\n\nBo\n\nAS\n\nRa,\n\n5\n\nvá\n\n>\n\n8\n\nom"
+  },
+  {
+    "page": 4,
+    "text": "E\n\nrarmssação\n\nDA ARA\n\nea,\n\nie\n\nA do\n\nvA\n\nwe\n\n=\n\nE\n\new"
+  },
+  {
+    "page": 5,
+    "text": "Ebay\n\nSs\n\nae\n\nae\n\nERES"
+  },
+  {
+    "page": 6,
+    "text": "iit\n\n=o"
+  },
+  {
+    "page": 7,
+    "text": "| A\n? E |"
+  },
+  {
+    "page": 8,
+    "text": "ao\n\nEE\n\naaaa\n\nER\n\nasa"
+  },
+  {
+    "page": 9,
+    "text": "CONCEITOS ESSENCIAIS\n\nEs\n\n=\n\nuso pe EMBLEMS\n\n‘uu marra.\n\n— x\n\n= 3\n\nosrovosunas\n\ni=\n\n=\n\nss\n\nnomeação\n\n=\n\nAS TOREAS DA soma\n\n=\n\nqem"
+  },
+  {
+    "page": 10,
+    "text": "COMO JOGA\n\nCa:\n\nE ee pone"
+  },
+  {
+    "page": 11,
+    "text": "EE. E\n\nce\n\namp"
+  },
+  {
+    "page": 12,
+    "text": "Ie\n\n= BA"
+  },
+  {
+    "page": 13,
+    "text": ""
+  },
+  {
+    "page": 14,
+    "text": "PRR So Rs att\nry\nEpis wens\n\nSes\n\n“=:\n\no mamas"
+  },
+  {
+    "page": 15,
+    "text": "& EP,\n\nca a"
+  },
+  {
+    "page": 16,
+    "text": "E\n\nGeis\n\nE"
+  },
+  {
+    "page": 17,
+    "text": "Se\nné"
+  },
+  {
+    "page": 18,
+    "text": "| animada\n\n“a nromn\n\n=\n\nat\n\nER\n\n=\n\nA\n\niy"
+  },
+  {
+    "page": 19,
+    "text": "EE\n\ncs so secs\n\nVITÓRIA E Denton\n\nSay\n\nz\n\necoa Eve"
+  },
+  {
+    "page": 20,
+    "text": "o neíámes"
+  },
+  {
+    "page": 21,
+    "text": "PRÓXIMA PARTIDA\n\n=e -\n\nSUGESTÕES DE CENÁRIOS\n\nqua\n\n=\n\nomen\n\n="
+  },
+  {
+    "page": 22,
+    "text": "IDAS SOLO\n\nHah\n\nEs"
+  },
+  {
+    "page": 23,
+    "text": ""
+  },
+  {
+    "page": 24,
+    "text": "EMBLEMAS\n\na\n\naa\n\nasa\n\nOUTROS ÍCONES\n\nDE\n\nE\n\nrae\n\nDE\n\nDE\n\n(é\n\nfei-\n\nRAÇÃO\n\nps\n\n=:\n\n—\n\n+"
+  }
+]
