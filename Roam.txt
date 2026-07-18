@@ -1,0 +1,66 @@
+[
+  {
+    "page": 1,
+    "text": "1\nLivro de Regras"
+  },
+  {
+    "page": 2,
+    "text": "2\nCOMPONENTES\n43 Cartas de Território / Personagem\nBem-vindo a Arzium,\nterra de civilizações antigas, criaturas bizarras,\nmaravilhas inexplicáveis e personagens vibrantes.\nUma grande doença do sono se espalhou por toda a\nterra, fazendo com que todo tipo de criatura\nvagasse por centenas de quilômetros em uma\nmarcha atordoada e incoerente. É seu trabalho\nprocurá-los e acordá-los do sono, recrutando-os\npara ajudá-lo a encontrar ainda mais almas perdidas!\nArzium é o cenário de outros jogos, incluindo\nAbove and Below, Near and Far, Islebound, e City of  Iron."
+  },
+  {
+    "page": 3,
+    "text": "3\n12 Cartas Iniciais\n(As cartas iniciais têm uma\nbandeira colorida no canto\ninferior esquerdo)\n96 Marcadores\nde exploração\n(24 em cada uma das 4 cores)\n24 Peças de\nArtefatos\n30 Moedas $1\n6 Moedas 5\n4 Cartas de ajuda\n1 Carta de Posto avançado"
+  },
+  {
+    "page": 4,
+    "text": "2. Embaralhe as cartas de terreno e coloque-as em uma\npilha com o terreno voltado para cima.\n3. Compre 6 cartas de terreno com a face voltada para\ncima e coloque-as no centro da mesa dispostas em\nformato de grade 3x2. Este é o nosso “mapa”.\nPosicione-o com suas bordas adjacentes, sem espaço\nentre elas e com seus pergaminhos voltados à borda\nexterna do mapa.\n4. Cada jogador escolhe uma borda diferente no mapa e\nem seguida deve alinhar suas cartas iniciais adjacentes a\numa extremidade do mapa.\n5. Escolha um jogador inicial e entregue a ele carta de\n“Primeiro Jogador” descrita no topo da carta de ajuda e\ndistribua as demais cartas de ajuda aos outros jogadores.\nColoque as moedas perto do mapa e as distribua da\nseguinte forma:  o primeiro jogador não recebe moedas, o\nsegundo e terceiro começam com 1 moeda e o quarto\njogador começa com 2 moedas.\nA ordem do turno é no sentido horário.\n1. Dê a cada jogador um conjunto de 3 cartas iniciais de\numa cor junto de seus respectivos marcadores\ncorrespondentes à cor da bandeira indicada na carta.\nColoque os demais itens na caixa.\nPREPARAÇÃO"
+  },
+  {
+    "page": 5,
+    "text": "5\nArtefatos: se estiver jogando o modo básico você\ndeverá devolve-los à caixa, caso esteja jogando no modo\ncompleto, consulte a página 12 para saber como usá-los.\nPilha de Compra\nNota: Todos os componentes são limitados, exceto moedas.\nSe algum deles acabar durante o jogo, eles não estarão disponíveis.\nSe ficar sem moedas, use um substituto adequado.\n1\n2\n3"
+  },
+  {
+    "page": 6,
+    "text": "6\n1.\n2.\nMarcador em Branco\nIsso não é permitido\nCOMO JOGAR\n\nComeçando pelo primeiro jogador, todos excecutam uma ação e\nse revezam no sentido horário.\n\nNo seu turno use um dos personagens que esteja virado para cima\ne coloque os marcadores de exploração no mapa. Para isso, vire a carta\nde personagem para baixo, coloque seus marcadores de exploração no\nmapa seguindo o formato e a direção para a qual a carta está voltada. A\nforma deve caber completamente nas bordas do mapa, exceto para os\nmarcadores “em branco” estes não precisam caber no mapa.\nVocê não pode girar os padrões de marcadores e deve colocar todos os\nconforme mostrado, se possível.\nSe uma casa já estiver ocupada por um marcador\nde um oponente ou por um dos seus que tenha\nsido colocado em turnos anteriores, ainda é\npossível posicionar seus marcadores nos espaços\ndesocupados, basta ignorar os espaços ocupados.\nImportante: um quadrado em uma carta de\nterreno nunca pode conter mais de um marcador.\nNota: Você não pode recuperar nenhum dos seus marcadores do tabuleiro\naté que uma carta que eles ocupam seja completada (veja a página 10).\nSe ficar sem marcadores para colocar, jogue normalmente executando\noutras ações, mas não coloque nenhum marcador substituto."
+  },
+  {
+    "page": 7,
+    "text": "7\nComo um dos espaços\njá está ocupado o\nazul o ignora ao\nposicionar suas peças.\n3.\n\nSe você colocar marcadores de exploração em símbolos de moedas,\npegue uma para cada símbolo encoberto no mapa e as mantenha à\nmostra ao lado de suas cartas de personagem.\nVire a carta\nescolhida\napós usá-la.\nPosicione as peças neste padrão\ne direção em que está voltado\n(não é possível girá-lo)."
+  },
+  {
+    "page": 8,
+    "text": "8\nIsso é permitido.\nUm espaço em branco pode se\nestender além da borda do mapa."
+  },
+  {
+    "page": 9,
+    "text": "9\nIsto não é permitido.\nUm padrão de marcador\ncomum não pode se estender\nalém das bordas do mapa.\nAo pagar 2 moedas,\nesta carta pode colocar\n1 marcador extra.\nAo pagar 2 moedas\nNo seu turno, ao colocar marcadores, você\npode pagar 2 moedas para colocar um\nmarcador “em branco”, conforme mostrado\nna carta de personagem, é possível executar\nesta habilidade para cada cubo em branco na\ncarta desde que tenha moedas suficientes.\nVocê pode usar as moedas que ganhar\ndurante o mesmo turno para colocar um\nmarcador em branco.\nHABILIDADE DA MOEDA"
+  },
+  {
+    "page": 10,
+    "text": "10\nEste jogador pode\nganhar 3 moedas\nao colocar aqui.\n4.\n\nNo final do seu turno, se todos os seis quadrados de qualquer carta\nde terreno estiverem ocupados por marcadores de exploração, o\npersonagem perdido será encontrado!\n• O jogador com mais marcadores de exploração na carta completa tem o\ndireito de reivindicá-la.\n• Se houver empate na maioria dos cubos cada jogador empatado pode\napostar moedas para tentar reivindicar a carta, senndo assim, o jogador\njogador ativo deve iniciar as apostas e seguindo no sentido horário cada\njogador só pode dar o lance uma vez, cada lance deve ser de pelo menos\numa moeda maior do que o lance anterior, embora os jogadores possam\noptar por passar e não dar lance algum ou caso o jogador não tenha\nmoedas suficiente para cobrir o lance atual. O jogador empatado que\napostar mais moedas reivindica a carta. Somente o jogador que vencer o\nlance precisará pagar suas moedas, as moedas pagas são devolvidas ao\nfornecimento. Um jogador não pode apostar mais moedas do que possui e\né permitido um lance de zero moedas.\nExemplo: Jeni coloca seu terceiro marcador em uma carta empatando com Sid.\nJeni inicia o lance em 0, mas Sid não tem moedas, então, ele não pode dar um\nlance maior do que Jeni, sendo assim, Jeni ganha a carta."
+  },
+  {
+    "page": 11,
+    "text": "11\n• Ao reivindicar uma carta coloque-a com o lado do personagem\nvoltado para cima próximo às suas outras cartas na mesma direção\nem que elas estão voltadas, devolva todos os marcadores que\nestavam no cartão aos seus proprietários e substitua a carta que falta\nno mapa por uma nova do topo do baralho colocando-a na mesma\norientação da carta substituída.\n• Se outro jogador reivindicar uma carta, mas você tiver pelo\nmenos um marcador de exploração nela, você ganha uma moeda.\nVocê nunca ganha mais de uma moeda por uma carta reivindicada,\nnão importando a quantidade de marcadores de exploração na carta.\nNota: Vários jogadores podem reivindicar uma moeda se tiverem pelo\nmenos um marcador na carta, mesmo que não tenham sido eles ao\nreivindicarem a carta.\nExemplo: Sid coloca seu terceiro marcador em uma carta e agora todos\nos seis espaços estão ocupados. Sid tem mais marcadores lá, então ele\nreivindica o cartão. Os outros três jogadores têm cada um um marcador\nna carta e cada um pode coletar uma moeda.\n5.\n\nSe no início do seu turno todas as suas cartas de personagem\nestiverem viradas para baixo, vire-as todas para cima, depois disso,\njogue normalmente.\nDESCANSO ANTECIPADO: No início do seu turno você\npode virar todos os seus personagens com a face para cima mesmo\nque ainda existam personagens disponíveis para serem jogados,\nmas você deve pagar o custo de uma moeda por cada personagem\nainda virado para cima em sua área de jogo. Se você fizer isso, você\ndeverá virar todos os seus personagens para cima não sendo\npossível optar por manter alguns deles virados para baixo."
+  },
+  {
+    "page": 12,
+    "text": "12\nSímbolo de Pontos de Vitória\nFIM DE JOGO\nJogue até que um jogador tenha dez cartas, incluindo as três com as quais\ncomeçou, quando isso ocorrer termine a rodada de forma que todos os\njogadores tenham o mesmo número de turnos e em seguida cada\njogador conta os pontos das cartas que possui. O jogador com mais\npontos é o vencedor e em caso de empate o jogador com mais moedas\nvence, se ainda assim houver empateos jogadores dividem a vitória."
+  },
+  {
+    "page": 13,
+    "text": "13\nArtefatos dão habilidades especiais.\n• Para usar uma habilidade especial em um artefato que você\npossui, vire a face do artefato para baixo.\n• Você só pode usar essas habilidades no seu turno.\n• Não há limite para o número de artefatos que você pode usar\nno seu turno.\n• Sempre que você virar todas as suas cartas de personagem\npara cima, vire também todos os artefatos virados para baixo\npara que possa usá-los novamente. Faça isso mesmo quando\nestiver usando o descanso antecipado.\n• Você não precisa pagar uma moeda por cada artefato virado\npara cima se usar um descanso antecipado.\nNo final do jogo, conte os pontos nas peças de artefato que\nvocê possui e adicione-os à sua pontuação final.\nPara descrições específicas de habilidades\nde artefatos, consulte a página 16.\nJOGO COMPLETO\nEmbaralhe as peças de artefato e posicione quatro delas em uma\nfileira acima do tabuleiro.\nNo final do seu turno você pode comprar uma das peças de artefato\npelo custo em moedas listado, se fizer isso, coloque-o perto de suas\ncartas de personagem e reabasteça a fileira de artefatos com um novo\ndo topo da pilha de modo que sempre haja quatro à mostra. Não há\nlimites de artefatos em sua área de jogo, mas só é possível comprar\num por turno."
+  },
+  {
+    "page": 14,
+    "text": "14\nVARIANTE DE\nPOSTO AVANÇADO\nColoque a carta de Posto Avançado perto do tabuleiro e se durante o\njogo você usar seus marcadores para cercar completamente o de um\noponente com 8 espaços, você reivindica a carta de Posto Avançado,\nque lhe dá 3 pontos adicionais no final do jogo e após reivindicá-lo\nnenhum outro jogador poderá fazer o mesmo.\nVARIANTE DE\nEMPILHAMENTO\nEm vez de jogar com o limite de um marcador por quadrado,\ncada quadrado pode conter até dois marcadores, assim sendo,\nvocê coloca um em cima do outro e o jogador com mais\nmarcadores na carta, quando completa, poderá reivindicá-la\nnormalmente. Resolva quaisquer empates normalmente."
+  },
+  {
+    "page": 15,
+    "text": "15\nDesign de jogo: Ryan Laukat\nIlustração: Ryan Laukat\nContribuições para o desenvolvimento: Ryan Laukat,\nMalorie Laukat, Alex Davis, Brenna Asplund, Alf Seegert\nTestadores: Brenna Asplund, Malorie Laukat, Alex Davis, Rachel\nLaukat, Kyle Hammond, Sheryl Laukat, Brandon Laukat, Alf Seegert,\nNatasha Seegert, Rose Asplund\nMuito obrigado aos apoiadores do Kickstarter que tornaram possível a\nimpressão deste jogo! Além disso, obrigado a todos que ajudaram a\nesclarecer e editar este livro de regras.\nCopyright 2019 Jogos Red Raven\nPara dúvidas sobre regras, envie-nos um email.\nVisite www.redravengames.com e clique na página “contato”."
+  },
+  {
+    "page": 16,
+    "text": "16\nAo usar esta habilidade, você pode colocar um\nespaço em branco gratuitamente em vez de pagar 2\nmoedas. Isso não permite que você coloque um\nmarcador sem usar uma carta de personagem.\nEsta habilidade permite que você substitua o\nmarcador de outro jogador pelo seu próprio desde\nque esteja usando um de seus personagens, isso\nnão permite que você coloque um marcador sem\nusar uma carta de personagem. Caso você substi-\ntua um marcador em um quadrado por um ou\nmais símbolos de moeda, você coletará as moedas\ndesses símbolos.\nAo usar esta habilidade ganhe 1 moeda.\nEsta habilidade permite que você gire um de seus\npadrões de busca em 90 graus no sentido horário\nao colocar marcadores no mapa.\nAo usar esta habilidade você pode deslizar\nqualquer marcador no mapa para um quadrado\nvazio adjacente vertical ou horizontalmente.\nmesmo que seja de propriedade de outro jogador,\nNão colete moedas para isso.\nCom esta habilidade você pode virar uma de suas\ncartas de personagem com a face para cima ou\npara baixo. Você pode usar essa habilidade logo\nno início do seu turno. Por exemplo, você só tem\numa carta virada para cima e ao virá-la para\nbaixo no início do seu turno é possível ter todas as\nsuas cartas viradas para cima.\nHABILIDADE DOS ARTEFATOS"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "page": 1,
+    "text": "THE REAL-TIME COOPERATIVE CHALLENGE"
+  },
+  {
+    "page": 2,
+    "text": "2\n55 CARDS\n19 GEAR TILES\n1 DEFUSE MARKER\nCOMPONENTS\n28 shape cards (7 for each shape)\n3 BLOCK MARKERS\n6 wild cards\n21 color cards (7 for each color)\nFirst Open Instructions card\n(not needed during gameplay)\n!"
+  },
+  {
+    "page": 3,
+    "text": "3\n5 SAND TIMERS\nQuicksand™ is a real-time cooperative challenge\nwhere you work together to deactivate the Quicksand,\nan ancient apparatus of gears and sand. A giant\ndesert whirlpool has dragged you down to a forgotten\nunderground temple, and the only way back to the\nsurface is to disable all 21 traps of the Quicksand.\nBeware! You can’t act too fast nor too slow or it will\ntrigger: only perfect teamwork will allow you to\ndisable this ancient apparatus.\nIn turns, you play cards to flip and advance one or\nmore sand timers; your goal is to prevent any of\nthem from running out before you deactivate the\ncontraption.\nSand timers rest on Gear tiles, each distinguished by\na different combination of shape and color. Each of\nyour cards depicts only 1 shape -or- 1 color among\nall those available, and when you play a card, all sand\ntimers on matching tiles are flipped and advanced to\nthe next tile–whether you want them to or not.\nFlip a sand timer too soon and you can get into trouble\nall by yourself… but if you wait too long, game\nover will be inevitable. You will have to coordinate\nstrategically as a team to deactivate the Quicksand\nbefore the sand timers run out!\nTHE GAME IN A NUTSHELL\n2 Slow\n2 Medium\n1 Fast"
+  },
+  {
+    "page": 4,
+    "text": "4\nYou can set up the Quicksand at various levels with\nincreasing difficulty. Try to beat them all!\nThis setup procedure describes the preparation for\nlevel 1. To set up the game for levels 2 through 21,\nsee page 12.\n1. Shuffle the Gear tiles to form a draw pile.\n2. \u0007Draw 10 Gear tiles from the pile and lay them\nout one by one on the table, in reach of all\nplayers, to form the Gear track (we suggest a\nsemi-circular shape, see the picture to the right).\n3. \u0007Place the Defuse marker next to the last tile\nyou placed.\n4. \u0007Draw 3 more Gear tiles and place them one by\none after the Defuse marker. This will be the\nDanger Zone of the Gear track.\n    \u0007Put all the remaining Gear tiles back into the\nbox. They won’t be used for this game.\nGET READY!\n4\n3\n6\n2\n5"
+  },
+  {
+    "page": 5,
+    "text": "5\n5.\u0007 \u0007Starting from the first tile of the Gear track\nand going forwards, place 2 Slow\n sand\ntimers and 1 Medium\n sand timer on the\nGear track, 1 sand timer for each Gear tile.\n    \u0007Put all the remaining sand timers back into the\nbox. They won’t be used for this game.\n6. \u0007Shuffle the cards to form a deck, then place it\nface down on the table, in reach of all players.\n7. \u0007Deal 3 cards to each player.\n8. \u0007Make sure all of the sand timers have the upper\nbulb empty.\nYou are ready to start!\n!\nSteps 2, 4, and 5 of this setup procedure\nneed to be changed to prepare the Quicksand\nfor higher difficulty levels. For a full description\nof the changes, see page 12."
+  },
+  {
+    "page": 6,
+    "text": "6\nHOW TO PLAY\nTHE PLAYER TURN\nDuring your turn, you must play 1 card from your\nhand, announce aloud which type of card you are\nplaying (color, shape, or wild card), then Activate\nall sand timers resting on tiles that match the\ncard you just played. For more information about\nActivating sand timers, see page 8.\nAfter you have finished applying the effects of the\ncard you played, draw a new card to replenish\nyour hand to its full size of 3. You must always have\n3 cards in your hand at the end of your turn.\nAfter this, the turn of the player to your left starts.\nThe game proceeds in this way until any victory\nor defeat conditions are triggered (see page 11).\nA game of Quicksand™ is played over a variable\nnumber of turns.\nOnce you begin the game, there’s no way to pause,\nso be sure everyone knows the rules and is ready to\nplay until the end.\nWhen you are ready to begin, starting from the\nmost advanced sand timer on the Gear track and\ngoing backwards, flip all of the sand timers so\nthat the sand starts flowing in all of them.\nThen, take a look at your cards and quickly discuss\nwith the other players to decide who will play first\n(remember, the sand is already flowing).\nAfter the starting player has been chosen, players\ntake turns playing clockwise.\nDuring the game, you can freely talk about the\ncards in your hand with the other players to work\nout a common strategy."
+  },
+  {
+    "page": 7,
+    "text": "7\nWild cards\nWhen you play a Wild card, you can apply 1 out of\n2 possible effects:\n- \u0007Activate 1 sand timer of your choice, regardless\nof the color or shape of the tile it is resting on\n(see page 8).\n- \u0007Recover 1 Lost sand timer of your choice.\nPlaying a Wild card is the only way to Recover a\nLost sand timer (see page 10).\nThe cards you play must be put into a discard pile\nnext to the draw pile, in reach of all players.\nWhen the draw pile is empty, flip the discard pile\nface down to form a new draw pile.\nColor cards\nThere are 3 possible color cards: gray, yellow,\nand orange. These cards Activate all sand timers\nresting on a Gear tile of the same color.\nShape cards\nThere are 4 possible shape cards: triangle, circle,\nsquare, and moon. These cards Activate all sand\ntimers resting on a Gear tile with the same shape."
+  },
+  {
+    "page": 8,
+    "text": "8\nActivating Sand Timers\nAfter playing a card, 1 or more sand timers may be\nActivated. The active player must always resolve\nthe action starting from the most advanced sand\ntimer on the Quicksand and going backwards.\nWhen a sand timer is Activated, flip it and move it\nonto the next Gear tile of the Gear track.\nIf the next Gear tile of the track is occupied by\nanother sand timer or the sand timer is at the end\nof the Gear track and there are no further tiles,\nthe Activated sand timer cannot advance, but you\nmust still flip it on the spot.\n!\nSometimes moving too fast may be as\ndangerous as being too slow! There is no time\nlimit to your turn, so do not be afraid to wait till\nthe last moment to play your card.\nFlipping an almost-full sand timer will turn a\nquiet situation into a sudden emergency!\nB\nA\nA circle card was played. Sand timer A can be flipped and\nadvanced because the tile in front is free, while the tile in\nfront of sand timer B is occupied, so it must be flipped in\nits place."
+  },
+  {
+    "page": 9,
+    "text": "9\nIf at any point during the game a Lost sand timer\nruns out of sand again, the game ends immediately\n(see page 11).\nThis sand timer has run out of sand before the active player\nplayed a card, so it must be flipped outside the track, next\nto the tile it was previously resting on.\n!\nIf a sand timer that can be Activated by the\ncard you are playing runs out of sand at the\nsame time you announce the card type, that\nsand timer is already considered Activated\nand doesn’t become Lost (i.e., it is not flipped\noutside of the Gear track).\nNote that if any sand timer that was not\nActivated runs out of sand while you are\napplying the effects of the card you played,\nthough, it does become Lost.\nLosing Sand Timers\nIf at any point during the game a sand timer resting\non a tile that is not in the Danger Zone of the Gear\ntrack runs out of sand, it becomes Lost. When this\nhappens, flip it outside of the Gear track, next to\nthe tile it was previously resting on.\n!\nThere can be more than 1 Lost sand timer\nresting outside of the Gear track next to the\nsame tile. Players can choose which sand timer\nthey want to Recover when playing a Wild card."
+  },
+  {
+    "page": 10,
+    "text": "10\nRecovering Sand Timers\nThe only way to Recover (i.e., put back on the Gear\ntrack) a Lost sand timer is to play a Wild card (see\npage 7).\nWhen you Recover a Lost sand timer, flip it and\nmove it onto the Gear tile next to it (see example\nimage A, to the right).\nIf the Gear tile next to the Lost sand timer is\noccupied by another sand timer, the Lost sand\ntimer cannot be put back on the Quicksand,\nbut you must still flip it on the spot (see example\nimage B, to the right).\nWild cards are pretty rare, so use them wisely!\nA\nB"
+  },
+  {
+    "page": 11,
+    "text": "11\nIf you want to face the Quicksand on your own,\nplay with these changes:\n- \u0007You must draw 3 cards at a time.\n- \u0007You must play all 3 cards before you can draw\nany more cards.\nAll other rules remain the same.\nHOW TO LOSE\nIf any Lost sand timer runs out of sand while it is\nstill outside of the Gear track or any sand timer\nruns out of sand while in the Danger Zone, the\ngame ends immediately and you have lost.\nHOW TO WIN!\nIf all sand timers have reached the Danger Zone\n(i.e., they have all crossed the Defuse marker)\nand they are all still running, the game ends\nimmediately and you have won!\nSOLO MODE\nEND OF THE GAME\nNo Matching Tiles?\nIf you play a card but there are no sand timers\non any of the Gear tiles matching its shape and/\nor color, nothing happens and the card is simply\ndiscarded to the discard pile before the next player\ncan start their turn.\nIf you are facing the different levels, ignore\nthe “Silence” and “Cards Facing Outwards”\nadditional rules.\n!"
+  },
+  {
+    "page": 12,
+    "text": "12\nDIFFICULTY LEVELS\nLVL\n1\n2\n3\n4\n5\n6\n7\n8\n10\n12\n10\n12\n12\n12\n12\n12\n3\n3\n3\n3\n3\n3\n4\n4\n\n-\n-\n-\n-\n-\nSILENCE\n-\n-\nYou can set up the Quicksand at various levels with increasing difficulty. Try to beat them all, starting from\nlevel 1 and going up! You can mark the levels you have already beaten by marking the space in the  column.\nThe number of Gear tiles to place before the Defuse marker\n and after the Defuse marker\n, as well as\nthe number, kind, and order of the sand timers  to place on the Gear track, vary depending on the difficulty\nlevel. Moreover, some levels also introduce additional rules  (see page 14).\nThis is how to set up the Quicksand for each difficulty level:"
+  },
+  {
+    "page": 13,
+    "text": "13\nLVL\n10\n11\n9\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n14\n14\n14\n12\n12\n14\n14\n14\n14\n14\n14\n15\n14\n3\n4\n4\n4\n4\n4\n5\n5\n5\n5\n4\n4\n5\n\nBLOCKED\nBLOCKED\n-\nDISCARD SHAPE\nCARDS FACING OUTWARDS\nSILENCE - BLOCKED\n-\n-\nBLOCKED\nDISCARD COLOR\nDISCARD SHAPE - SILENCE - BLOCKED\nCARDS FACING OUTWARDS - BLOCKED\nDISCARD COLOR - BLOCKED"
+  },
+  {
+    "page": 14,
+    "text": "14\nADDITIONAL RULES\nSilence\nAfter the setup procedure is completed, players\ncannot speak for the whole duration of the game,\nother than to announce aloud which card they are\nplaying.\nBlocked\nDuring the setup procedure, starting from the tile\nin front of the most advanced sand timer, place a\nBlock marker on every third Gear tile on the Gear\ntrack so there are 2 empty tiles, then 1 tile with a\nBlock marker, then 2 more empty tiles, and so on\n(see image to the right).\nTiles with a Block marker are ”Blocked”. Sand\ntimers cannot move onto Blocked tiles, the tile\nneeds to be “unlocked” first. To unlock a Blocked\ntile, you must Activate a sand timer resting on the\ntile immediately preceding it. When this happens,\nthe sand timer cannot advance and is flipped on\nthe spot, but the Blocked Gear is now unlocked\n(i.e., you remove the Block marker). It has now\nbecome a regular Gear tile.\nWhen a sand timer should advance onto a Blocked Gear,\nflip it in place, then remove the Block marker to free the\nnext tile.\nKeep 2 empty tiles in front of the most advanced sand\ntimer before placing the first Block marker."
+  },
+  {
+    "page": 15,
+    "text": "15\nDiscard Shape\nBefore setting up the game, choose or randomly\npick a shape, then remove all cards of that shape\nfrom the deck.\nDiscard Color\nBefore setting up the game, choose or randomly\npick a color, then remove all cards of that color\nfrom the deck.\nCards Facing Outwards\nWhenever you receive or draw cards, you can’t\nlook at them. Keep them in your hand with the\nback side facing towards you, and the front side\nfacing towards the other players. During the\ngame, the other players will have to suggest to\nyou which card is the best to play during your turn.\nGame Design: Hjalmar Hach, Lorenzo Silva\nDevelopment: Andrea Lugli\nProject Manager: Andrea Lugli\nProduction Manager: Ylenia D’Abundo\nArt Director: Lorenzo Silva\nGraphic Design: Maxime Morim, Noa Vassalli, Fabio Frencl\nRulebook: Alessandro Pra’, Andrea Lugli\nEditing: William Niebling, Alessandro Pra’\nCREDITS"
+  },
+  {
+    "page": 16,
+    "text": "If you have any issues, please contact us at:"
+  }
+]
