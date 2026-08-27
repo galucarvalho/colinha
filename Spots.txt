@@ -1,0 +1,82 @@
+[
+  {
+    "page": 1,
+    "text": "SPelS\nDO"
+  },
+  {
+    "page": 2,
+    "text": "2\nCães têm pintinhas.\nDados têm pintinhas."
+  },
+  {
+    "page": 3,
+    "text": "3\nColoque seus dados nos locais certos.\nComplete seus cãezinhos para pontuá-los!"
+  },
+  {
+    "page": 4,
+    "text": "4\nOs dados que você não puder colocar são\nenterrados no jardim.\n\nEnterre dados demais e você se quebra."
+  },
+  {
+    "page": 5,
+    "text": "5\nPontue 6 cães e vença!"
+  },
+  {
+    "page": 6,
+    "text": "6\nPreparação\n1.\t Pegue estas 6 peças de truque na caixa:\nColoque-as viradas para cima no centro da mesa, seguindo\na imagem acima. Não se preocupe com as outras peças por\nenquanto, elas servem para trazer mais variedade em partidas\nfuturas.\n2.\tPegue o baralho de cartas de cão, embaralhe-o e, então,\nentregue 2 cartas de cão para cada jogador, com o lado cinza\npara cima. Esta será a sua matilha! Coloque as cartas de cão\nrestantes no centro da mesa, lado cinza para cima.\n3.\tColoque todos os dados e petiscos em pilhas, próximos a\ntodos os jogadores. Talvez tudo acabe em bagunça.\nSão cachorros, afinal de contas."
+  },
+  {
+    "page": 7,
+    "text": "7\n4.\tCada jogador pega 1 jardim, 1 petisco e 1 dado. Cada um rola o\npróprio dado e o enterra no próprio jardim. É assim que a área\nde cada jogador deve ficar:\n5.\tQuem tiver o dado enterrado com o maior valor começa. Em\ncaso de empate, os jogadores empatados rerrolam os dados.\nTudo pronto para começar!"
+  },
+  {
+    "page": 8,
+    "text": "8\nComo jogar Spots\nEm Spots, os jogadores realizam os turnos em sentido horário. No\nseu turno, você pode escolher entre (1) realizar um truque ou (2)\npontuar seus cães. Você realizará truques na maioria dos seus turnos:\nRealizar um Truque\nEscolha qualquer uma das peças de truque viradas para cima (no\ninício da partida, todas elas começam viradas para cima).\nExemplo: Na situação abaixo, você pode escolher entre duas ações viradas\npara cima: PASSEAR ou CORRER.\nApós escolher uma peça virada para cima, vire-a para baixo e siga\ntodas as etapas descritas nela, na ordem em que estão listadas."
+  },
+  {
+    "page": 9,
+    "text": "9\nrolando e colocando dados\nA maior parte dos truques envolve rolar dados e então colocá-los\nnos seus cães. Sempre que você precisar rolar dados, pegue-os da\nreserva comum, a menos que a peça de truque diga o contrário.\nApós a rolagem, você pode colocar os dados nos espaços\ncorrespondentes em qualquer um dos seus cães, por exemplo,\num dado com 4 pintinhas pode ser colocado em qualquer espaço\nque também tenha 4 pintinhas. Quaisquer dados rolados que\nvocê não puder (ou não quiser) colocar, devem ser enterrados\nem seu jardim em vez disso.\nExemplo: Você pode escolher a peça de truque Correr (mostrada à\nesquerda), e começar pela primeira etapa, que pede que você role 3 dados.\nVocê pega 3 dados da reserva comum, rola-os, tirando um 3, um 4 e um 6.\nVocê pode colocar os dados 3 e 4 nos seus cães, mas precisa enterrar o\ndado 6 no seu jardim, já que não há nenhum espaço 6 nos seus cães."
+  },
+  {
+    "page": 10,
+    "text": "10\nExemplo, cont.: Você segue para a segunda etapa da peça de truque Correr,\nela é opcional, pois usa a palavra-chave “pode”. Você decide rolar um dado.\nVocê tira um 2 e coloca o dado em um cão. Já que a segunda etapa pode\nser realizada mais de uma vez, ainda é possível escolhê-la novamente e\nrolar outro dado, mas você prefere parar em vez disso.\nGastando petiscos\nPetiscos são incríveis, eles permitem que você rerrole seus dados!\nImediatamente após rolar, mas antes de colocar ou enterrar\nos dados, você pode escolher rerrolar todos os dados recém-\nrolados ao gastar 1 petisco. Tudo funciona da seguinte forma:\n•\tVocê deve rerrolar TODOS os dados envolvidos na rolagem,\nnão apenas aqueles que não tiver gostado.\n•\tNão há limite para o número de petiscos que você pode gastar\nem um turno. Contanto que tenha petiscos o suficiente para\ngastar, você pode seguir rerrolando até ficar satisfeito com o\nresultado.\n•\tVocê só pode usar petiscos para rerrolar sua rolagem mais\nrecente."
+  },
+  {
+    "page": 11,
+    "text": "11\nExemplo: Considerando a situação da página 9, o resultado da sua rolagem\nfoi um 3, um 4 e um 6. Você consegue colocar o 3 e o 4, mas não há lugar\nalgum para colocar o 6, ou seja, ele precisaria ser enterrado em vez disso.\nVocê decide gastar um petisco e rerrolar. Assim, você rerrola TODOS os\ndados, inclusive o 3 e o 4 que você poderia ter colocado.\nQuebrando\nSe você não puder (ou não quiser) colocar um dado em um cão,\nvocê deve enterrá-lo em seu jardim em vez disso. Se a soma do total\nde pintinhas nos seus dados enterrados superar 7, você quebra!\nO seguinte acontece quando você quebra:\n•\tSeu turno termina imediatamente, mesmo se você não tiver\nterminado de executar as etapas na peça de truque.\n•\tDescarte todos os dados colocados nos seus cães.\n•\tDescarte todos os seus dados enterrados.\nVocê sempre pode gastar petiscos para evitar isso, rerrolando\nantes de enterrar os dados, mas se não puder (ou não quiser)\ngastar petiscos para evitar uma quebra, bem... aí sua sorte acabou."
+  },
+  {
+    "page": 12,
+    "text": "12\n•\tAs etapas são obrigatórias, a menos que digam que você\n“pode” fazê-las.\n•\tSe não puder realizar uma etapa por qualquer motivo, por\nexemplo, você escolheu Rolar e não tem nenhum dado\nenterrado, então simplesmente pule essa etapa.\n•\tSe você não puder realizar a primeira etapa, isso não impede\nque você realize a segunda.\n•\tAlgumas etapas nas peças indicam que você pode repeti-las\n(como no exemplo sobre a peça Correr). Isso significa que\nvocê pode repetir aquela etapa em questão quantas vezes\nquiser (ou até quebrar)!\n•\tAlgumas peças de truque se tornam mais fortes dependendo\nde quantos\n estiverem nas suas cartas de cão.\n•\tSe uma etapa indicar que você coloque ou enterre vários\ndados, você pode misturar as duas ações, colocando alguns e\nenterrando outros.\n•\tApós rolar seus dados, coloque ou enterre todos eles antes de\nseguir para qualquer outra rolagem. Veja exemplos de duas\nsituações em que isso ocorre em uma partida.\n\nEXEMPLO 1: Você escolhe Passear e rola 2 dados. Depois de gastar\nquaisquer petiscos, você deve colocar ou enterrar os 2 dados iniciais antes\nde seguir para a segunda etapa e decidir se você quer rolar mais 1 dado.\nEXEMPLO 2: Você escolhe Chispar, e separa 3 dados. Já que a peça instrui\nque você role 1 dado por vez, você deve colocar ou enterrar cada dado antes\nde seguir para o próximo."
+  },
+  {
+    "page": 13,
+    "text": "13\nRecolocando as peças de truque\nEventualmente sobrará apenas uma peça de truque virada para\ncima. Se você começar seu turno e houver apenas 1 peça de\ntruque para escolher:\n1.\t Coloque 1 petisco da reserva na única peça de truque virada\npara cima (o petisco vai para o próximo jogador que escolhê-la).\n2.\tVire todas as peças de truque para cima. Agora você pode\nescolher qualquer uma delas!"
+  },
+  {
+    "page": 14,
+    "text": "14\nPontue seus Cães\nPontuar seus cães é a forma de vencer este jogo! Já que cães\npontuados não sofrem nada quando você quebra, também é a\nforma de progredir na partida.\nHá duas formas de pontuar seus cães:\ndevagar e sempre\nNo seu turno, em vez de realizar um truque, você pode pontuar\nseus cães! Quando o fizer:\n1.\t Descarte TODOS os dados nas suas cartas de cão completas\n(cartas que estão com todos os seus espaços ocupados\npor dados) e vire-as ao contrário para mostrar que foram\npontuadas.\n2.\tPara cada carta de cão que você pontuar nesse turno, compre\na carta do topo do baralho de cães e adicione-a à sua matilha,\ncom o lado cinza para cima.\n•\tVocê deve ter ao menos uma carta de cão completa para\npontuar. Você não pode apenas pontuar para evitar realizar\num truque.\n•\tAo pontuar, você deve pontuar TODAS as cartas de cão\ncompletas, não apenas algumas específicas."
+  },
+  {
+    "page": 15,
+    "text": "15\nveloz e arriscado\nSe você conseguir completar TODAS as suas cartas de cão\nviradas para cima enquanto estiver realizando um truque,\npontue-as imediatamente!\nÉ uma recompensa por sua coragem... ou por ser sortudo.\nQuando pontuar dessa maneira, siga o mesmo processo de\n“devagar e sempre” explicado anteriormente (descarte os dados,\nvire os cães, compre novos cães). A única diferença é que,\ndiferentemente da pontuação devagar e sempre, você não gasta\num turno inteiro só para fazê-lo!"
+  },
+  {
+    "page": 16,
+    "text": "16\n•\tPara pontuar Veloz e Arriscado, você deve primeiro colocar ou\nenterrar todos os dados da sua rolagem mais recente. Se essa\nrolagem fizer com que você quebre, você não irá pontuar!\n•\tApós pontuar Veloz e Arriscado, preste atenção para garantir\nque encerrou seu truque atual. Se você ainda tiver uma\nsegunda etapa da peça de truque que falta realizar, ou se\nestiver no meio de uma etapa que pode ser repetida (como a\nsegunda de Correr), compre seus novos cães e siga correndo!\nlimite de seis cartas de cão\nVocê nunca pode ter mais que 6 cartas de cão, contando\ntanto as que já foram pontuadas quanto as que não foram. Se\nvocê precisar comprar cartas acima dessa quantidade, pare de\ncomprar assim que alcançar o limite de 6 cartas.\nExemplo: você tem 5 cartas de cão e pontua 2 delas, você só irá comprar\n1 carta de cão nova, já que se comprasse a segunda ultrapassaria o limite\nde 6 cartas.\nVencendo a Partida\nO primeiro jogador a pontuar 6 cartas de cão vence\nimediatamente!"
+  },
+  {
+    "page": 17,
+    "text": "17\nMais Detalhes Importantes\ndados e petiscos acabaram\nSe você precisar pegar dados ou petiscos e eles não estiverem\ndisponíveis na quantidade suficiente, pegue o que puder, mesmo\nse esse número for inferior ao que o truque necessita.\nNo caso raro de que nenhum dado esteja disponível no começo\ndo seu turno, todos os jogadores quebram imediatamente e\nperdem todos os dados! Então, continue seu turno normalmente.\nadicionando variedade às próximas partidas\nDepois de jogar com o primeiro conjunto de peças de truque, dê\numa animada nas coisas ao usar as outras peças que vêm na caixa!\nSempre lembre de incluir Uivar e Rolar. Então, também inclua\n1 peça adicional de cada uma das 4 categorias de cores (cada\ncor também tem um estilo diferente de roseta). Elas podem\nser escolhidas aleatoriamente ou você pode usar os conjuntos\nsugeridos a seguir.\nconjuntos sugeridos\n•\tEvento de Adoção: Passear, Correr, Pegar, Pedir\n•\tPasseio no Parque: Cavar, Perseguir, Ficar de Guarda, Mastigar\n•\tCircuito de Agilidade: Desfilar, Chispar, Pegar, Devorar\n•\tHora da Caçada: Resgatar, Disparar, Caçar, Ficar\n•\tClube do Cão: Rastrear, Montinho, Buscar, Pedir\n•\tCercadinho dos Piticos: Resgatar, Chispar, Surrupiar,\nFingir de Morto"
+  },
+  {
+    "page": 18,
+    "text": "18\nvariante sem coleira\nEsta é uma variante pensada para quem prefere uma partida um\npouco mais caótica. Use TODAS as peças de truque! As peças de\ntruque com a mesma cor devem ser empilhadas uma em cima da\noutra de maneira aleatória. Quando usar uma peça, vire a peça de\ntruque do topo da pilha. Quando for a hora de recolocar as peças,\nquaisquer peças que estiverem viradas para baixo são viradas para\ncima novamente e movidas para a base da pilha. Note que isso não\nse aplica a Uivar e a Rolar, que sempre continuam em jogo.\nmodo solo\nVocê joga contra um oponente automatizado chamado R0b0cã0.\nR0b0cã0 começa com 1 petisco, nenhum jardim e nenhum cão.\nVocê começa. Na vez do R0b0cã0, role um dado. Imagine que as\npeças de truque estão marcadas de 1 a 6:\nO dado indica uma peça específica. Se essa peça estiver virada para\ncima, o R0b0cã0 a vira para baixo, pegando quaisquer petiscos que\nlá estiverem. Se a peça estiver virada para baixo, o R0b0cã0 pontua\na carta de cão do topo do baralho de cães em vez disso.\nSe o R0b0cã0 começar o turno dele e só houver 1 peça de truque\nvirada para cima, primeiro recoloque as peças como faria se fosse\nseu próprio turno. Se o R0b0cã0 tiver ao menos 2 petiscos, ele\ndevolve 2 e pontua a carta de cão do topo do baralho de cães.\nVocê vence se pontuar 6 cães. Você perde se o R0b0cã0\npontuar 6. Ajuste a dificuldade do R0b0cã0 fazendo com que ele\ncomece com mais ou menos petiscos.\n1\n4\n2\n5\n3\n6"
+  },
+  {
+    "page": 19,
+    "text": "19\nCréditos\nChefia de Design do Jogo\nJon Perry\nDesenvolvimento e Design\nAlex Hague & Justin Vickers\nArte\nJohn Bond\nConsultoria de Design do Jogo\nMontana Graboyes\nConsultoria de Arte e Design\nKristen Leach\nBatizadores dos Cães (no original)\nSophie Abromowitz\nObrigado\nCardstock ‘21, Alisa Daar, Jonathan Daar, Josh Freeman, Alex Hart, Brian Henk, Game Makers\nGuild, Eric Garneau, Sara Glenn, Chris Grote, Hasting Johnson, Mary Johnson,\nWesley Johnson, Doug Maccaferri, Mark McGee, Steven Ness, Luca Pimentel, Fiona Pongratz,\nDaniel Pool, Regina Salazar, Spencer Saunders, Unpub, Joey Vigour, James Woodbury.\nGalápagos\nGestão de Projeto\nMatheus Passeri\nTradução\nCamila Loricchio\nRevisão\nCatharine Affiune e Gabriel Novaes\nDiagramação\nTati Hapanchuk\nwww.mundogalapagos.com.br\nv1.0"
+  },
+  {
+    "page": 20,
+    "text": "Referência Rápida\nNo seu turno, escolha uma destas duas ações:\nou\nrealizar um truque\n•\t Escolha uma peça de truque\nvirada para cima e realize as\netapas dela em ordem.\n•\t Se uma etapa indicar que\nvocê “pode” fazer algo, você\nnão é obrigado a fazê-lo.\n•\t Algumas etapas indicam\nque você pode repeti-las até\ndecidir parar (ou quebrar).\nao rolar dados\n•\t Sempre pegue os dados da reserva comum, a menos que a peça de\ntruque diga o contrário.\n•\t Se você gastar um petisco, você precisará rerrolar TODOS os dados que\nacabou de rolar. Você não pode escolher quais dados quer rolar ou não.\n•\t Após rolar seus dados (e gastar petiscos), coloque ou enterre todos\neles antes de seguir para qualquer outra rolagem.\noutras regras muito importantes\n•\t Quando houver apenas 1 peça de truque virada para cima, coloque\n1 petisco nela e vire todas as peças de truque para cima.\n•\t Se todos os espaços em todos os seus cachorros estiverem ocupados,\npontue todos eles imediatamente sem gastar um turno para isso!\n•\t Você quebra se enterrar dados que somem mais de 7. Quando isso\nocorrer, encerre seu turno e descarte todos os dados enterrados e em\nseus cães.\npontuar seus cães\n•\t Descarte todos os dados em\ncães completos e vire esses\ncães para baixo.\n•\t Compre 1 novo cão para cada\ncão pontuado, mas pare ao\nalcançar o limite de 6 cães\n(pontuados e não pontuados)\nno total."
+  }
+]
